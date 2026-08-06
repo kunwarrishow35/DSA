@@ -24,4 +24,12 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/kunwarrishow35/LeetCode/tree/master/0141-linked-list-cycle) |
+## Math
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/kunwarrishow35/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/kunwarrishow35/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
