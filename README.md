@@ -22,6 +22,7 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/kunwarrishow35/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/kunwarrishow35/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -39,8 +40,13 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/kunwarrishow35/DSA/tree/master/0001-two-sum) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/kunwarrishow35/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/kunwarrishow35/LeetCode/tree/master/0231-power-of-two) |
+## Binary Search
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/kunwarrishow35/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
