@@ -28,13 +28,12 @@ bool isPalindrome(struct ListNode* head) {
     temp1 = head;
     temp2 = prev;
 
-    while(temp2 != NULL)
-    {
-    if(temp1->val != temp2->val)
-        return false;
+    while(temp2 != NULL){
+        if(temp1->val != temp2->val)
+            return false;
 
-    temp1 = temp1->next;
-    temp2 = temp2->next;
+        temp1 = temp1->next;
+        temp2 = temp2->next;
     }
     return true;
 }
