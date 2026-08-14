@@ -51,6 +51,7 @@
 | [0001-two-sum](https://github.com/kunwarrishow35/DSA/tree/master/0001-two-sum) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kunwarrishow35/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/kunwarrishow35/LeetCode/tree/master/0283-move-zeroes) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kunwarrishow35/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1929-concatenation-of-array](https://github.com/kunwarrishow35/DSA/tree/master/1929-concatenation-of-array) |
 ## Bit Manipulation
 |  |
@@ -68,4 +69,12 @@
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/kunwarrishow35/DSA/tree/master/1929-concatenation-of-array) |
+## Sorting
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kunwarrishow35/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kunwarrishow35/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
