@@ -24,6 +24,7 @@
 | [0001-two-sum](https://github.com/kunwarrishow35/DSA/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/kunwarrishow35/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0242-valid-anagram](https://github.com/kunwarrishow35/LeetCode/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/kunwarrishow35/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/kunwarrishow35/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Two Pointers
 |  |
@@ -95,6 +96,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/kunwarrishow35/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/kunwarrishow35/LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/kunwarrishow35/DSA/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/kunwarrishow35/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/kunwarrishow35/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Sliding Window
 |  |
@@ -121,4 +123,12 @@
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/kunwarrishow35/DSA/tree/master/0877-stone-game) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/kunwarrishow35/DSA/tree/master/0387-first-unique-character-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/kunwarrishow35/DSA/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
