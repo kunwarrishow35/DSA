@@ -46,6 +46,7 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/kunwarrishow35/LeetCode/tree/master/0231-power-of-two) |
+| [0877-stone-game](https://github.com/kunwarrishow35/DSA/tree/master/0877-stone-game) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/kunwarrishow35/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Enumeration
 |  |
@@ -59,6 +60,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kunwarrishow35/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kunwarrishow35/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/kunwarrishow35/LeetCode/tree/master/0283-move-zeroes) |
+| [0877-stone-game](https://github.com/kunwarrishow35/DSA/tree/master/0877-stone-game) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kunwarrishow35/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1929-concatenation-of-array](https://github.com/kunwarrishow35/DSA/tree/master/1929-concatenation-of-array) |
 ## Bit Manipulation
@@ -102,8 +104,21 @@
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kunwarrishow35/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0877-stone-game](https://github.com/kunwarrishow35/DSA/tree/master/0877-stone-game) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/kunwarrishow35/LeetCode/tree/master/0011-container-with-most-water) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/kunwarrishow35/DSA/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/kunwarrishow35/DSA/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/kunwarrishow35/DSA/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
