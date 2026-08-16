@@ -54,6 +54,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/kunwarrishow35/DSA/tree/master/0001-two-sum) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/kunwarrishow35/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kunwarrishow35/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/kunwarrishow35/LeetCode/tree/master/0283-move-zeroes) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kunwarrishow35/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -95,4 +96,8 @@
 |  |
 | ------- |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/kunwarrishow35/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/kunwarrishow35/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
