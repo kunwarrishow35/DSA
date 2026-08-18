@@ -30,6 +30,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/kunwarrishow35/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/kunwarrishow35/DSA/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/kunwarrishow35/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/kunwarrishow35/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Two Pointers
 |  |
 | ------- |
@@ -73,6 +74,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kunwarrishow35/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1929-concatenation-of-array](https://github.com/kunwarrishow35/DSA/tree/master/1929-concatenation-of-array) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/kunwarrishow35/DSA/tree/master/2273-find-resultant-array-after-removing-anagrams) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/kunwarrishow35/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Bit Manipulation
 |  |
 | ------- |
