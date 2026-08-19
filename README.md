@@ -70,6 +70,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kunwarrishow35/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/kunwarrishow35/LeetCode/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/kunwarrishow35/LeetCode/tree/master/0283-move-zeroes) |
+| [0561-array-partition](https://github.com/kunwarrishow35/DSA/tree/master/0561-array-partition) |
 | [0877-stone-game](https://github.com/kunwarrishow35/DSA/tree/master/0877-stone-game) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kunwarrishow35/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1929-concatenation-of-array](https://github.com/kunwarrishow35/DSA/tree/master/1929-concatenation-of-array) |
@@ -97,6 +98,7 @@
 | [0088-merge-sorted-array](https://github.com/kunwarrishow35/DSA/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/kunwarrishow35/LeetCode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/kunwarrishow35/LeetCode/tree/master/0242-valid-anagram) |
+| [0561-array-partition](https://github.com/kunwarrishow35/DSA/tree/master/0561-array-partition) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kunwarrishow35/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/kunwarrishow35/DSA/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 ## Heap (Priority Queue)
@@ -126,6 +128,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/kunwarrishow35/LeetCode/tree/master/0011-container-with-most-water) |
+| [0561-array-partition](https://github.com/kunwarrishow35/DSA/tree/master/0561-array-partition) |
 ## Minimax
 |  |
 | ------- |
@@ -155,4 +158,8 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/kunwarrishow35/LeetCode/tree/master/0169-majority-element) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/kunwarrishow35/DSA/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
