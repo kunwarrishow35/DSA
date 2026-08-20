@@ -76,6 +76,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kunwarrishow35/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1929-concatenation-of-array](https://github.com/kunwarrishow35/DSA/tree/master/1929-concatenation-of-array) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/kunwarrishow35/DSA/tree/master/2273-find-resultant-array-after-removing-anagrams) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/kunwarrishow35/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/kunwarrishow35/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Bit Manipulation
 |  |
@@ -94,6 +95,7 @@
 | ------- |
 | [0867-transpose-matrix](https://github.com/kunwarrishow35/DSA/tree/master/0867-transpose-matrix) |
 | [1929-concatenation-of-array](https://github.com/kunwarrishow35/DSA/tree/master/1929-concatenation-of-array) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/kunwarrishow35/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Sorting
 |  |
 | ------- |
