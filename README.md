@@ -58,6 +58,7 @@
 | [0268-missing-number](https://github.com/kunwarrishow35/DSA/tree/master/0268-missing-number) |
 | [0877-stone-game](https://github.com/kunwarrishow35/DSA/tree/master/0877-stone-game) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/kunwarrishow35/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/kunwarrishow35/DSA/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Enumeration
 |  |
 | ------- |
