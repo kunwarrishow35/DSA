@@ -28,6 +28,7 @@
 | [0169-majority-element](https://github.com/kunwarrishow35/LeetCode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/kunwarrishow35/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/kunwarrishow35/DSA/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/kunwarrishow35/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/kunwarrishow35/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/kunwarrishow35/DSA/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/kunwarrishow35/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -46,6 +47,7 @@
 | [0234-palindrome-linked-list](https://github.com/kunwarrishow35/DSA/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/kunwarrishow35/LeetCode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/kunwarrishow35/DSA/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/kunwarrishow35/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0876-middle-of-the-linked-list](https://github.com/kunwarrishow35/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -74,6 +76,7 @@
 | [0169-majority-element](https://github.com/kunwarrishow35/LeetCode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/kunwarrishow35/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/kunwarrishow35/LeetCode/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/kunwarrishow35/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0561-array-partition](https://github.com/kunwarrishow35/DSA/tree/master/0561-array-partition) |
 | [0867-transpose-matrix](https://github.com/kunwarrishow35/DSA/tree/master/0867-transpose-matrix) |
 | [0877-stone-game](https://github.com/kunwarrishow35/DSA/tree/master/0877-stone-game) |
@@ -92,6 +95,7 @@
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kunwarrishow35/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/kunwarrishow35/DSA/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/kunwarrishow35/DSA/tree/master/0349-intersection-of-two-arrays) |
 ## Stack
 |  |
 | ------- |
@@ -109,6 +113,7 @@
 | [0169-majority-element](https://github.com/kunwarrishow35/LeetCode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/kunwarrishow35/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/kunwarrishow35/DSA/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/kunwarrishow35/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0561-array-partition](https://github.com/kunwarrishow35/DSA/tree/master/0561-array-partition) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kunwarrishow35/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/kunwarrishow35/DSA/tree/master/2273-find-resultant-array-after-removing-anagrams) |
