@@ -101,6 +101,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/kunwarrishow35/DSA/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/kunwarrishow35/DSA/tree/master/0234-palindrome-linked-list) |
 ## Simulation
 |  |
@@ -126,6 +127,7 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/kunwarrishow35/DSA/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/kunwarrishow35/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/kunwarrishow35/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/kunwarrishow35/LeetCode/tree/master/0242-valid-anagram) |
@@ -184,4 +186,8 @@
 |  |
 | ------- |
 | [0867-transpose-matrix](https://github.com/kunwarrishow35/DSA/tree/master/0867-transpose-matrix) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/kunwarrishow35/DSA/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
