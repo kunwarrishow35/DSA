@@ -6,26 +6,28 @@
  * };
  */
 struct ListNode* removeNthFromEnd(struct ListNode* head, int n) {
-    struct ListNode *slow, *fast, *nextnode;
-    slow = head;
-    fast = head;
-    for(int i = 1; i<=n; i++){
-        fast = fast->next;
+    struct ListNode *temp, *nextnode;
+    temp = head;
+    int count = 0;
+    while(temp != NULL){
+        count ++;
+        temp = temp->next;
     }
-    if(fast==NULL){
-        nextnode = head;
+    temp = head;
+    if(n == count){
+        temp = head;
         head = head->next;
-        free(nextnode);
-
+        free(temp);
         return head;
     }
-    while(fast->next != NULL){
-        fast= fast->next;
-        slow= slow->next;
+    int pos = (count - n);
+    for(int i =1; i<pos; i++){
+        temp = temp->next;
     }
-    nextnode = slow->next;
-    slow->next = nextnode->next;
-    free(nextnode);
 
-    return head;     
+
+    nextnode = temp->next;
+    temp->next = nextnode->next;
+    free(nextnode);
+    return head;
 }
