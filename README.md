@@ -111,6 +111,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/kunwarrishow35/DSA/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/kunwarrishow35/DSA/tree/master/0234-palindrome-linked-list) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/kunwarrishow35/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Simulation
 |  |
 | ------- |
@@ -141,6 +142,7 @@
 | [0242-valid-anagram](https://github.com/kunwarrishow35/LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/kunwarrishow35/DSA/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/kunwarrishow35/DSA/tree/master/0387-first-unique-character-in-a-string) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/kunwarrishow35/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/kunwarrishow35/DSA/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/kunwarrishow35/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Sliding Window
