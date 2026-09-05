@@ -1,24 +1,22 @@
 void moveZeroes(int* nums, int numsSize) {
-    int ans[numsSize];
-    if(nums==0){
+    if(nums==NULL)
         return;
-    }
-    int k =0;
-    for(int i=0; i<numsSize; i++){
-        if(nums[i] != 0){
-            ans[k] = nums[i];
-            k++;
+    else{
+        int temp, l, r;
+        l = r = 0;
+        while(r<numsSize){
+            if(nums[r]==0){
+                r++;
+            }
+            else{
+                temp = nums[r];
+                nums[r]=nums[l];
+                nums[l]=temp;
+                r++;
+                l++;
+            }
         }
+
     }
-    while(k<numsSize){
-        ans[k]=0;
-        k++;
-    }
-
-    for(int j=0; j<numsSize; j++){
-        nums[j] = ans[j];
-    }
-
-
-
-}   
+    return;
+}
