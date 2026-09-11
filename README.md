@@ -221,12 +221,13 @@
 
 ## 📊 Progress
 
-**Total Solved: 8**
+**Total Solved: 9**
 
 | Topic | Solved |
 | --- | ---: |
 | Array | 2 |
 | Mathematics | 5 |
+| Divide-and-Conquer | 1 |
 | Other | 1 |
 
 ## Array
@@ -253,6 +254,11 @@
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22gfg%22%2C%22problemIdentifier%22%3A%225843%22%2C%22topic%22%3A%22Mathematics%22%7D -->
 - [Sum of Natural Number Cubes](https://www.geeksforgeeks.org/problems/sum-of-first-n-terms5843/1)
+
+## Divide-and-Conquer
+
+<!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22gfg%22%2C%22problemIdentifier%22%3A%220527%22%2C%22topic%22%3A%22Divide-and-Conquer%22%7D -->
+- [Median of an Array](https://www.geeksforgeeks.org/problems/find-the-median0527/1)
 
 ## Other
 
