@@ -216,3 +216,20 @@
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/kunwarrishow35/DSA/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
+
+<!-- DSA-GRINDHUB:START -->
+
+## 📊 Progress
+
+**Total Solved: 1**
+
+| Topic | Solved |
+| --- | ---: |
+| Array | 1 |
+
+## Array
+
+<!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22leetcode%22%2C%22problemIdentifier%22%3A%220027%22%2C%22topic%22%3A%22Array%22%7D -->
+- [Remove Element](https://leetcode.com/problems/remove-element/)
+
+<!-- DSA-GRINDHUB:END -->
