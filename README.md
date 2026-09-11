@@ -221,12 +221,12 @@
 
 ## 📊 Progress
 
-**Total Solved: 10**
+**Total Solved: 11**
 
 | Topic | Solved |
 | --- | ---: |
 | Array | 2 |
-| Mathematics | 6 |
+| Mathematics | 7 |
 | Divide-and-Conquer | 1 |
 | Other | 1 |
 
@@ -239,6 +239,9 @@
 - [Remove Element](https://leetcode.com/problems/remove-element/)
 
 ## Mathematics
+
+<!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22gfg%22%2C%22problemIdentifier%22%3A%225728%22%2C%22topic%22%3A%22Mathematics%22%7D -->
+- [Closest to n and Divisible by m](https://www.geeksforgeeks.org/problems/closest-number5728/1)
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22gfg%22%2C%22problemIdentifier%22%3A%223649%22%2C%22topic%22%3A%22Mathematics%22%7D -->
 - [Count Perfect Squares](https://www.geeksforgeeks.org/problems/count-squares3649/1)
