@@ -221,11 +221,12 @@
 
 ## 📊 Progress
 
-**Total Solved: 3**
+**Total Solved: 4**
 
 | Topic | Solved |
 | --- | ---: |
 | Array | 2 |
+| Mathematics | 1 |
 | Other | 1 |
 
 ## Array
@@ -235,6 +236,11 @@
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22leetcode%22%2C%22problemIdentifier%22%3A%220027%22%2C%22topic%22%3A%22Array%22%7D -->
 - [Remove Element](https://leetcode.com/problems/remove-element/)
+
+## Mathematics
+
+<!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22gfg%22%2C%22problemIdentifier%22%3A%225739%22%2C%22topic%22%3A%22Mathematics%22%7D -->
+- [Factorial](https://www.geeksforgeeks.org/problems/factorial5739/1)
 
 ## Other
 
