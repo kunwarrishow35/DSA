@@ -221,12 +221,12 @@
 
 ## 📊 Progress
 
-**Total Solved: 7**
+**Total Solved: 8**
 
 | Topic | Solved |
 | --- | ---: |
 | Array | 2 |
-| Mathematics | 4 |
+| Mathematics | 5 |
 | Other | 1 |
 
 ## Array
@@ -250,6 +250,9 @@
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22gfg%22%2C%22problemIdentifier%22%3A%22quadratic-equation-roots%22%2C%22topic%22%3A%22Mathematics%22%7D -->
 - [Quadratic Equation Roots](https://www.geeksforgeeks.org/problems/quadratic-equation-roots/1)
+
+<!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22gfg%22%2C%22problemIdentifier%22%3A%225843%22%2C%22topic%22%3A%22Mathematics%22%7D -->
+- [Sum of Natural Number Cubes](https://www.geeksforgeeks.org/problems/sum-of-first-n-terms5843/1)
 
 ## Other
 
