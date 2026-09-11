@@ -330,13 +330,13 @@ Problem Solved Successfully
 Suggest Feedback
 
 Test Cases Passed110 / 110
-Attempts : Correct / Total1 / 7Accuracy : 14%
+Attempts : Correct / Total3 / 9Accuracy : 33%
 
-Points Scored 1 / 1Your Total Score:5
+Time Taken0.03
 
-Time Taken0.01
+You get marks only for the first correct submission if you solve the problem without viewing the full solution.
 
-C (gcc 5.4)
+Python3
 C (gcc 5.4)
 C++ (17)
 Java (21)
@@ -364,54 +364,20 @@ Choose Your Preferred font For The Code Editor
 11
 12
 13
-14
-15
-16
-17
-18
-19
-20
-21
-22
-23
-24
-25
-26
-27
-28
-29
-30
 
-#include <stdlib.h>
-#include <math.h>
+import math
 
-int* quadraticRoots(int a, int b, int c, int* retSize) {
-int d = b * b - 4 * a * c;
+class Solution:
+def quadraticRoots(self, a, b, c):
+d = b * b - 4 * a * c
 
-if (d < 0) {
-*retSize = 1;
+if d < 0:
+return [-1]
 
-int *roots = malloc(sizeof(int));
-roots[0] = -1;
+root1 = math.floor((-b + math.sqrt(d)) / (2 * a))
+root2 = math.floor((-b - math.sqrt(d)) / (2 * a))
 
-return roots;
-}
-
-int *roots = malloc(2 * sizeof(int));
-
-roots[0] = floor((-b + sqrt(d)) / (2.0 * a));
-roots[1] = floor((-b - sqrt(d)) / (2.0 * a));
-
-if (roots[0] < roots[1]) {
-int temp = roots[0];
-roots[0] = roots[1];
-roots[1] = temp;
-}
-
-*retSize = 2;
-
-return roots;
-}
+return sorted([root1, root2], reverse=True)
 
 הההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההה
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
@@ -423,11 +389,11 @@ Problem Solved Successfully
 Suggest Feedback
 
 Test Cases Passed110 / 110
-Attempts : Correct / Total1 / 7Accuracy : 14%
+Attempts : Correct / Total3 / 9Accuracy : 33%
 
-Points Scored 1 / 1Your Total Score:5
+Time Taken0.03
 
-Time Taken0.01
+You get marks only for the first correct submission if you solve the problem without viewing the full solution.
 
 Custom Input
 
