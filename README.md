@@ -221,13 +221,16 @@
 
 ## 📊 Progress
 
-**Total Solved: 1**
+**Total Solved: 2**
 
 | Topic | Solved |
 | --- | ---: |
-| Array | 1 |
+| Array | 2 |
 
 ## Array
+
+<!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22leetcode%22%2C%22problemIdentifier%22%3A%220088%22%2C%22topic%22%3A%22Array%22%7D -->
+- [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22leetcode%22%2C%22problemIdentifier%22%3A%220027%22%2C%22topic%22%3A%22Array%22%7D -->
 - [Remove Element](https://leetcode.com/problems/remove-element/)
