@@ -221,12 +221,12 @@
 
 ## 📊 Progress
 
-**Total Solved: 11**
+**Total Solved: 12**
 
 | Topic | Solved |
 | --- | ---: |
 | Array | 2 |
-| Mathematics | 7 |
+| Mathematics | 8 |
 | Divide-and-Conquer | 1 |
 | Other | 1 |
 
@@ -251,6 +251,9 @@
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22gfg%22%2C%22problemIdentifier%22%3A%223459%22%2C%22topic%22%3A%22Mathematics%22%7D -->
 - [GCD of Two](https://www.geeksforgeeks.org/problems/gcd-of-two-numbers3459/1)
+
+<!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22gfg%22%2C%22problemIdentifier%22%3A%222520%22%2C%22topic%22%3A%22Mathematics%22%7D -->
+- [Greatest of Three Numbers](https://www.geeksforgeeks.org/problems/greatest-of-three-numbers2520/1)
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22gfg%22%2C%22problemIdentifier%22%3A%221335%22%2C%22topic%22%3A%22Mathematics%22%7D -->
 - [Nth Fibonacci Number](https://www.geeksforgeeks.org/problems/nth-fibonacci-number1335/1)
