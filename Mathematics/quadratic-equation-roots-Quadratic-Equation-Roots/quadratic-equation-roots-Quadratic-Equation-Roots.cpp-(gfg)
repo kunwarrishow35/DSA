@@ -1,30 +1,13 @@
-#include <stdlib.h>
-#include <math.h>
+import math
 
-int* quadraticRoots(int a, int b, int c, int* retSize) {
-    int d = b * b - 4 * a * c;
+class Solution:
+    def quadraticRoots(self, a, b, c):
+        d = b * b - 4 * a * c
 
-    if (d < 0) {
-        *retSize = 1;
+        if d < 0:
+            return [-1]
 
-        int *roots = malloc(sizeof(int));
-        roots[0] = -1;
+        root1 = math.floor((-b + math.sqrt(d)) / (2 * a))
+        root2 = math.floor((-b - math.sqrt(d)) / (2 * a))
 
-        return roots;
-    }
-
-    int *roots = malloc(2 * sizeof(int));
-
-    roots[0] = floor((-b + sqrt(d)) / (2.0 * a));
-    roots[1] = floor((-b - sqrt(d)) / (2.0 * a));
-
-    if (roots[0] < roots[1]) {
-        int temp = roots[0];
-        roots[0] = roots[1];
-        roots[1] = temp;
-    }
-
-    *retSize = 2;
-
-    return roots;
-}
+        return sorted([root1, root2], reverse=True)
