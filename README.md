@@ -221,12 +221,12 @@
 
 ## 📊 Progress
 
-**Total Solved: 9**
+**Total Solved: 10**
 
 | Topic | Solved |
 | --- | ---: |
 | Array | 2 |
-| Mathematics | 5 |
+| Mathematics | 6 |
 | Divide-and-Conquer | 1 |
 | Other | 1 |
 
@@ -239,6 +239,9 @@
 - [Remove Element](https://leetcode.com/problems/remove-element/)
 
 ## Mathematics
+
+<!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22gfg%22%2C%22problemIdentifier%22%3A%223649%22%2C%22topic%22%3A%22Mathematics%22%7D -->
+- [Count Perfect Squares](https://www.geeksforgeeks.org/problems/count-squares3649/1)
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22gfg%22%2C%22problemIdentifier%22%3A%225739%22%2C%22topic%22%3A%22Mathematics%22%7D -->
 - [Factorial](https://www.geeksforgeeks.org/problems/factorial5739/1)
