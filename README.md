@@ -221,12 +221,12 @@
 
 ## 📊 Progress
 
-**Total Solved: 4**
+**Total Solved: 5**
 
 | Topic | Solved |
 | --- | ---: |
 | Array | 2 |
-| Mathematics | 1 |
+| Mathematics | 2 |
 | Other | 1 |
 
 ## Array
@@ -241,6 +241,9 @@
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22gfg%22%2C%22problemIdentifier%22%3A%225739%22%2C%22topic%22%3A%22Mathematics%22%7D -->
 - [Factorial](https://www.geeksforgeeks.org/problems/factorial5739/1)
+
+<!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22gfg%22%2C%22problemIdentifier%22%3A%22quadratic-equation-roots%22%2C%22topic%22%3A%22Mathematics%22%7D -->
+- [Quadratic Equation Roots](https://www.geeksforgeeks.org/problems/quadratic-equation-roots/1)
 
 ## Other
 
