@@ -221,12 +221,12 @@
 
 ## 📊 Progress
 
-**Total Solved: 5**
+**Total Solved: 6**
 
 | Topic | Solved |
 | --- | ---: |
 | Array | 2 |
-| Mathematics | 2 |
+| Mathematics | 3 |
 | Other | 1 |
 
 ## Array
@@ -241,6 +241,9 @@
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22gfg%22%2C%22problemIdentifier%22%3A%225739%22%2C%22topic%22%3A%22Mathematics%22%7D -->
 - [Factorial](https://www.geeksforgeeks.org/problems/factorial5739/1)
+
+<!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22gfg%22%2C%22problemIdentifier%22%3A%223459%22%2C%22topic%22%3A%22Mathematics%22%7D -->
+- [GCD of Two](https://www.geeksforgeeks.org/problems/gcd-of-two-numbers3459/1)
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22gfg%22%2C%22problemIdentifier%22%3A%22quadratic-equation-roots%22%2C%22topic%22%3A%22Mathematics%22%7D -->
 - [Quadratic Equation Roots](https://www.geeksforgeeks.org/problems/quadratic-equation-roots/1)
