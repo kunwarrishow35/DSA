@@ -1,0 +1,13 @@
+class Solution:
+    def closestNumber(self, n, m):
+        # code here 
+        num = n//m
+        x = num * m
+        y = (num + 1) * m
+        
+        if abs(n-x) < abs(n-y):
+            return x
+        elif abs(n-x) > abs(n-y):
+            return y
+        else:
+            return max(x, y, key =abs)
