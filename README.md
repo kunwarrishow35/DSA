@@ -221,16 +221,19 @@
 
 ## 📊 Progress
 
-**Total Solved: 12**
+**Total Solved: 13**
 
 | Topic | Solved |
 | --- | ---: |
-| Array | 2 |
+| Array | 3 |
 | Mathematics | 8 |
 | Divide-and-Conquer | 1 |
 | Other | 1 |
 
 ## Array
+
+<!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22gfg%22%2C%22problemIdentifier%22%3A%224009%22%2C%22topic%22%3A%22Array%22%7D -->
+- [Largest in Array](https://www.geeksforgeeks.org/problems/largest-element-in-array4009/1)
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22leetcode%22%2C%22problemIdentifier%22%3A%220088%22%2C%22topic%22%3A%22Array%22%7D -->
 - [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)
