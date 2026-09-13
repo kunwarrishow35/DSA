@@ -67,20 +67,7 @@ Line: 8 Col: 1
 
 Test against custom input
 
-CongratulationsYou solved this challenge. Would you like to challenge your friends?
-
-Next Challenge
-
-Compiler Message
-Success
-
-Input (stdin)
-2
-
-3
-
-Expected Output
-5
+Loading testcase ...
 
 Author
 shashank21j
