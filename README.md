@@ -64,6 +64,7 @@
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/kunwarrishow35/DSA/tree/master/0009-palindrome-number) |
 | [0231-power-of-two](https://github.com/kunwarrishow35/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/kunwarrishow35/DSA/tree/master/0268-missing-number) |
 | [0877-stone-game](https://github.com/kunwarrishow35/DSA/tree/master/0877-stone-game) |
