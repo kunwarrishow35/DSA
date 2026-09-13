@@ -221,12 +221,12 @@
 
 ## 📊 Progress
 
-**Total Solved: 18**
+**Total Solved: 19**
 
 | Topic | Solved |
 | --- | ---: |
 | Array | 5 |
-| Mathematics | 8 |
+| Mathematics | 9 |
 | Divide-and-Conquer | 1 |
 | Brute-Force | 1 |
 | Other | 3 |
@@ -270,6 +270,9 @@
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22gfg%22%2C%22problemIdentifier%22%3A%22quadratic-equation-roots%22%2C%22topic%22%3A%22Mathematics%22%7D -->
 - [Quadratic Equation Roots](https://www.geeksforgeeks.org/problems/quadratic-equation-roots/1)
+
+<!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22gfg%22%2C%22problemIdentifier%22%3A%221742%22%2C%22topic%22%3A%22Mathematics%22%7D -->
+- [Sum Of Digits](https://www.geeksforgeeks.org/problems/sum-of-digits1742/1)
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22gfg%22%2C%22problemIdentifier%22%3A%225843%22%2C%22topic%22%3A%22Mathematics%22%7D -->
 - [Sum of Natural Number Cubes](https://www.geeksforgeeks.org/problems/sum-of-first-n-terms5843/1)
