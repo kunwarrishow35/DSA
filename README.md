@@ -221,14 +221,14 @@
 
 ## 📊 Progress
 
-**Total Solved: 16**
+**Total Solved: 17**
 
 | Topic | Solved |
 | --- | ---: |
 | Array | 5 |
 | Mathematics | 8 |
 | Divide-and-Conquer | 1 |
-| Other | 2 |
+| Other | 3 |
 
 ## Array
 
@@ -279,6 +279,9 @@
 - [Median of an Array](https://www.geeksforgeeks.org/problems/find-the-median0527/1)
 
 ## Other
+
+<!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22hackerrank%22%2C%22problemIdentifier%22%3A%222532%22%2C%22topic%22%3A%22Other%22%7D -->
+- [Solve Me First](https://www.hackerrank.com/challenges/solve-me-first/problem)
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22codechef%22%2C%22problemIdentifier%22%3A%22FLOW006%22%2C%22topic%22%3A%22Other%22%7D -->
 - [Sum of Digits](https://www.codechef.com/problems/FLOW006)
