@@ -221,13 +221,14 @@
 
 ## 📊 Progress
 
-**Total Solved: 17**
+**Total Solved: 18**
 
 | Topic | Solved |
 | --- | ---: |
 | Array | 5 |
 | Mathematics | 8 |
 | Divide-and-Conquer | 1 |
+| Brute-Force | 1 |
 | Other | 3 |
 
 ## Array
@@ -277,6 +278,11 @@
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22gfg%22%2C%22problemIdentifier%22%3A%220527%22%2C%22topic%22%3A%22Divide-and-Conquer%22%7D -->
 - [Median of an Array](https://www.geeksforgeeks.org/problems/find-the-median0527/1)
+
+## Brute-Force
+
+<!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22codeforces%22%2C%22problemIdentifier%22%3A%224A%22%2C%22topic%22%3A%22Brute-Force%22%7D -->
+- [Watermelon](https://codeforces.com/contest/4/problem/A)
 
 ## Other
 
