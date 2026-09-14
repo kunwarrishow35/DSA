@@ -100,6 +100,7 @@
 | [0283-move-zeroes](https://github.com/kunwarrishow35/LeetCode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/kunwarrishow35/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0561-array-partition](https://github.com/kunwarrishow35/DSA/tree/master/0561-array-partition) |
+| [0682-baseball-game](https://github.com/kunwarrishow35/DSA/tree/master/0682-baseball-game) |
 | [0867-transpose-matrix](https://github.com/kunwarrishow35/DSA/tree/master/0867-transpose-matrix) |
 | [0877-stone-game](https://github.com/kunwarrishow35/DSA/tree/master/0877-stone-game) |
 | [0896-monotonic-array](https://github.com/kunwarrishow35/DSA/tree/master/0896-monotonic-array) |
@@ -128,11 +129,13 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/kunwarrishow35/DSA/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/kunwarrishow35/DSA/tree/master/0234-palindrome-linked-list) |
+| [0682-baseball-game](https://github.com/kunwarrishow35/DSA/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/kunwarrishow35/DSA/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/kunwarrishow35/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/kunwarrishow35/DSA/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/kunwarrishow35/DSA/tree/master/0844-backspace-string-compare) |
 | [0867-transpose-matrix](https://github.com/kunwarrishow35/DSA/tree/master/0867-transpose-matrix) |
 | [1929-concatenation-of-array](https://github.com/kunwarrishow35/DSA/tree/master/1929-concatenation-of-array) |
