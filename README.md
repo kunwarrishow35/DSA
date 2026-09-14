@@ -91,6 +91,7 @@
 | [0011-container-with-most-water](https://github.com/kunwarrishow35/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/kunwarrishow35/DSA/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/kunwarrishow35/DSA/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/kunwarrishow35/DSA/tree/master/0035-search-insert-position) |
 | [0088-merge-sorted-array](https://github.com/kunwarrishow35/DSA/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kunwarrishow35/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kunwarrishow35/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -121,6 +122,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/kunwarrishow35/DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0035-search-insert-position](https://github.com/kunwarrishow35/DSA/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kunwarrishow35/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/kunwarrishow35/DSA/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/kunwarrishow35/DSA/tree/master/0349-intersection-of-two-arrays) |
