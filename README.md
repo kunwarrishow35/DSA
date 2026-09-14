@@ -57,6 +57,7 @@
 | [0283-move-zeroes](https://github.com/kunwarrishow35/LeetCode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/kunwarrishow35/DSA/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/kunwarrishow35/DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0844-backspace-string-compare](https://github.com/kunwarrishow35/DSA/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/kunwarrishow35/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/kunwarrishow35/DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Floyd's Cycle Finding Algorithm
@@ -127,10 +128,12 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/kunwarrishow35/DSA/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/kunwarrishow35/DSA/tree/master/0234-palindrome-linked-list) |
+| [0844-backspace-string-compare](https://github.com/kunwarrishow35/DSA/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/kunwarrishow35/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Simulation
 |  |
 | ------- |
+| [0844-backspace-string-compare](https://github.com/kunwarrishow35/DSA/tree/master/0844-backspace-string-compare) |
 | [0867-transpose-matrix](https://github.com/kunwarrishow35/DSA/tree/master/0867-transpose-matrix) |
 | [1929-concatenation-of-array](https://github.com/kunwarrishow35/DSA/tree/master/1929-concatenation-of-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/kunwarrishow35/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -160,6 +163,7 @@
 | [0242-valid-anagram](https://github.com/kunwarrishow35/LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/kunwarrishow35/DSA/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/kunwarrishow35/DSA/tree/master/0387-first-unique-character-in-a-string) |
+| [0844-backspace-string-compare](https://github.com/kunwarrishow35/DSA/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/kunwarrishow35/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/kunwarrishow35/DSA/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/kunwarrishow35/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
