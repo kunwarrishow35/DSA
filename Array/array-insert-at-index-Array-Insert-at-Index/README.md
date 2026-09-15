@@ -235,11 +235,11 @@ Problem Solved Successfully
 Suggest Feedback
 
 Test Cases Passed1120 / 1120
-Attempts : Correct / Total1 / 1Accuracy : 100%
+Attempts : Correct / Total2 / 2Accuracy : 100%
 
-Points Scored 1 / 1Your Total Score:26
+Time Taken0.29
 
-Time Taken0.32
+You get marks only for the first correct submission if you solve the problem without viewing the full solution.
 
 Python3
 C (gcc 5.4)
@@ -281,11 +281,11 @@ Problem Solved Successfully
 Suggest Feedback
 
 Test Cases Passed1120 / 1120
-Attempts : Correct / Total1 / 1Accuracy : 100%
+Attempts : Correct / Total2 / 2Accuracy : 100%
 
-Points Scored 1 / 1Your Total Score:26
+Time Taken0.29
 
-Time Taken0.32
+You get marks only for the first correct submission if you solve the problem without viewing the full solution.
 
 Custom Input
 
