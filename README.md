@@ -249,11 +249,11 @@
 
 ## 📊 Progress
 
-**Total Solved: 20**
+**Total Solved: 21**
 
 | Topic | Solved |
 | --- | ---: |
-| Array | 6 |
+| Array | 7 |
 | Mathematics | 9 |
 | Divide-and-Conquer | 1 |
 | Brute-Force | 1 |
@@ -278,6 +278,9 @@
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22gfg%22%2C%22problemIdentifier%22%3A%222614%22%2C%22topic%22%3A%22Array%22%7D -->
 - [Rotate Array by One](https://www.geeksforgeeks.org/problems/cyclically-rotate-an-array-by-one2614/1)
+
+<!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22gfg%22%2C%22problemIdentifier%22%3A%22sum-all-array-elements%22%2C%22topic%22%3A%22Array%22%7D -->
+- [Sum of Array](https://www.geeksforgeeks.org/problems/sum-all-array-elements/1)
 
 ## Mathematics
 
