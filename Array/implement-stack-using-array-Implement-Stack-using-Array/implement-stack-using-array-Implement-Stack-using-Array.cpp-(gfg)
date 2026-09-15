@@ -1,0 +1,28 @@
+class myStack:
+    def __init__(self, n):
+        self.stack = []
+        self.n = n
+
+    def isEmpty(self):
+        if self.stack == []:
+            return True
+        return False
+
+    def isFull(self):
+        if len(self.stack) == self.n:
+            return True
+        return False
+
+    def push(self, x):
+        if not self.isFull():
+            self.stack.append(x)
+
+    def pop(self):
+        if not self.isEmpty():
+            return self.stack.pop()
+        return -1
+
+    def peek(self):
+        if not self.isEmpty():
+            return self.stack[-1]
+        return -1
