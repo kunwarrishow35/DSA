@@ -249,11 +249,11 @@
 
 ## 📊 Progress
 
-**Total Solved: 23**
+**Total Solved: 24**
 
 | Topic | Solved |
 | --- | ---: |
-| Array | 9 |
+| Array | 10 |
 | Mathematics | 9 |
 | Divide-and-Conquer | 1 |
 | Brute-Force | 1 |
@@ -263,6 +263,9 @@
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22gfg%22%2C%22problemIdentifier%22%3A%22print-alternate-elements-of-an-array%22%2C%22topic%22%3A%22Array%22%7D -->
 - [Alternates in an Array](https://www.geeksforgeeks.org/problems/print-alternate-elements-of-an-array/1)
+
+<!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22gfg%22%2C%22problemIdentifier%22%3A%22array-traversal%22%2C%22topic%22%3A%22Array%22%7D -->
+- [Array Traversal](https://www.geeksforgeeks.org/problems/array-traversal/1)
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22gfg%22%2C%22problemIdentifier%22%3A%221587115620%22%2C%22topic%22%3A%22Array%22%7D -->
 - [Array with All Palindromes](https://www.geeksforgeeks.org/problems/palindromic-array-1587115620/1)
