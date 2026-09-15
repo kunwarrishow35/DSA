@@ -1,0 +1,13 @@
+class Solution:
+    def isPalinArray(self, arr):
+        
+        for i in arr:
+            x = str(i)
+            if x != x[::-1]:
+                return False
+            
+        return True
+         
+        
+      
+        
