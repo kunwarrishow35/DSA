@@ -63,9 +63,9 @@ Problem Solved Successfully
 Suggest Feedback
 
 Test Cases Passed1115 / 1115
-Attempts : Correct / Total2 / 2Accuracy : 100%
+Attempts : Correct / Total4 / 4Accuracy : 100%
 
-Time Taken0.06
+Time Taken0.09
 
 You get marks only for the first correct submission if you solve the problem without viewing the full solution.
 
@@ -104,9 +104,9 @@ Problem Solved Successfully
 Suggest Feedback
 
 Test Cases Passed1115 / 1115
-Attempts : Correct / Total2 / 2Accuracy : 100%
+Attempts : Correct / Total4 / 4Accuracy : 100%
 
-Time Taken0.06
+Time Taken0.09
 
 You get marks only for the first correct submission if you solve the problem without viewing the full solution.
 
