@@ -249,17 +249,20 @@
 
 ## 📊 Progress
 
-**Total Solved: 29**
+**Total Solved: 30**
 
 | Topic | Solved |
 | --- | ---: |
-| Array | 15 |
+| Array | 16 |
 | Mathematics | 9 |
 | Divide-and-Conquer | 1 |
 | Brute-Force | 1 |
 | Other | 3 |
 
 ## Array
+
+<!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22gfg%22%2C%22problemIdentifier%22%3A%22array-insert-at-end%22%2C%22topic%22%3A%22Array%22%7D -->
+- [📊 ArrayList Insert at End - The Foundation of Dynamic Data Structures](https://www.geeksforgeeks.org/problems/array-insert-at-end/1)
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22gfg%22%2C%22problemIdentifier%22%3A%22print-alternate-elements-of-an-array%22%2C%22topic%22%3A%22Array%22%7D -->
 - [Alternates in an Array](https://www.geeksforgeeks.org/problems/print-alternate-elements-of-an-array/1)
