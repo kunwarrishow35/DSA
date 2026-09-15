@@ -249,11 +249,11 @@
 
 ## 📊 Progress
 
-**Total Solved: 27**
+**Total Solved: 28**
 
 | Topic | Solved |
 | --- | ---: |
-| Array | 13 |
+| Array | 14 |
 | Mathematics | 9 |
 | Divide-and-Conquer | 1 |
 | Brute-Force | 1 |
@@ -263,6 +263,9 @@
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22gfg%22%2C%22problemIdentifier%22%3A%22print-alternate-elements-of-an-array%22%2C%22topic%22%3A%22Array%22%7D -->
 - [Alternates in an Array](https://www.geeksforgeeks.org/problems/print-alternate-elements-of-an-array/1)
+
+<!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22gfg%22%2C%22problemIdentifier%22%3A%221587115621%22%2C%22topic%22%3A%22Array%22%7D -->
+- [Array Search](https://www.geeksforgeeks.org/problems/search-an-element-in-an-array-1587115621/1)
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22gfg%22%2C%22problemIdentifier%22%3A%22array-traversal%22%2C%22topic%22%3A%22Array%22%7D -->
 - [Array Traversal](https://www.geeksforgeeks.org/problems/array-traversal/1)
