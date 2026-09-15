@@ -1,0 +1,8 @@
+class Solution:
+    def convertFive(self, n):
+        
+        new = str(n)
+        
+        new = new.replace("0", "5")
+        
+        return int(new)
