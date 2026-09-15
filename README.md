@@ -249,17 +249,20 @@
 
 ## 📊 Progress
 
-**Total Solved: 21**
+**Total Solved: 22**
 
 | Topic | Solved |
 | --- | ---: |
-| Array | 7 |
+| Array | 8 |
 | Mathematics | 9 |
 | Divide-and-Conquer | 1 |
 | Brute-Force | 1 |
 | Other | 3 |
 
 ## Array
+
+<!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22gfg%22%2C%22problemIdentifier%22%3A%22print-alternate-elements-of-an-array%22%2C%22topic%22%3A%22Array%22%7D -->
+- [Alternates in an Array](https://www.geeksforgeeks.org/problems/print-alternate-elements-of-an-array/1)
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22gfg%22%2C%22problemIdentifier%22%3A%224009%22%2C%22topic%22%3A%22Array%22%7D -->
 - [Largest in Array](https://www.geeksforgeeks.org/problems/largest-element-in-array4009/1)
