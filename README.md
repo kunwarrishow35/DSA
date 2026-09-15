@@ -249,11 +249,11 @@
 
 ## 📊 Progress
 
-**Total Solved: 25**
+**Total Solved: 26**
 
 | Topic | Solved |
 | --- | ---: |
-| Array | 11 |
+| Array | 12 |
 | Mathematics | 9 |
 | Divide-and-Conquer | 1 |
 | Brute-Force | 1 |
@@ -287,6 +287,9 @@
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22leetcode%22%2C%22problemIdentifier%22%3A%220027%22%2C%22topic%22%3A%22Array%22%7D -->
 - [Remove Element](https://leetcode.com/problems/remove-element/)
+
+<!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22gfg%22%2C%22problemIdentifier%22%3A%220005%22%2C%22topic%22%3A%22Array%22%7D -->
+- [Replace all 0's with 5](https://www.geeksforgeeks.org/problems/replace-all-0s-with-5/1)
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22gfg%22%2C%22problemIdentifier%22%3A%222614%22%2C%22topic%22%3A%22Array%22%7D -->
 - [Rotate Array by One](https://www.geeksforgeeks.org/problems/cyclically-rotate-an-array-by-one2614/1)
