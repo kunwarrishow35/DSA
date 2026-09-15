@@ -58,222 +58,6 @@ Related Articles
 
 Cpp Program For Linear SearchJava Program For Linear SearchLinear Search
 
-Discussions ( 944 Threads )
-
-Commenting as Rishow KunwarComment Anonymously
-
-💡Discussion Guidelines
-Please avoid posting complete solutions or full code in the comments.
-Ask questions, share hints, discuss approaches, or report any issues. Let's help everyone learn together.
-
-harshitkauspph54 days agoSep 11, 2026 11:20 (GMT +5:30)
-
-class Solution:
-def search(self, arr, x):
-# code here
-for i, val in enumerate(arr):
-if val == x:
-return i
-
-return -1
-
-0
-
-Reply
-
-Anonymous_Geek4 days agoSep 11, 2026 03:05 (GMT +5:30)
-
-import java.lang.reflect.Array;
-class Solution {
-public int search(int arr[], int x) {
-// code here
-
-for(int i=0; i<arr.length; i++){
-if(arr[i] == x){
-return i;
-}
-}
-
-return -1;
-
-}
-}
-
-0
-
-Reply
-
-Anonymous_Geek3 weeks agoAug 24, 2026 15:51 (GMT +5:30)
-
-class Solution {
-public:
-int search(vector<int>& arr, int x) {
-// code here
-for (int i=0;i<arr.size();i++){
-if (arr[i] == x)
-return i;
-}
-return -1;
-}
-};
-
-0
-
-Reply
-
-K Venkata ramanna3 weeks agoAug 24, 2026 15:48 (GMT +5:30)
-
-class Solution {
-public:
-int search(vector<int>& arr, int x) {
-// code here
-int n = arr.size();
-for( int i=0;i<n; i++){
-if(arr[i]==x) return i;
-}
-return -1;
-}
-};
-
-0
-
-Reply
-
-Anonymous_Geek1 month agoJul 30, 2026 17:55 (GMT +5:30)
-
-class Solution {
-public:
-int search(vector<int>& arr, int x) {
-
-int n=arr.size();
-int index=-1;
-for(int i=0;i<n;i++){
-if(arr[i]==x){index=i;break;}
-}
-return index;
-}
-};
-
-0
-
-Reply
-
-Anonymous_Geek1 month agoJul 30, 2026 17:52 (GMT +5:30)
-
-class Solution {
-public:
-int search(vector<int>& arr, int x) {
-
-int n=arr.size();
-for(int i=0;i<n;i++){
-if(arr[i]==x){return i;}
-}
-return -1;
-
-}
-};
-
-1
-
-Reply
-
-Anonymous_Geek1 month agoJul 29, 2026 20:57 (GMT +5:30)
-
-import java.util.*;
-class Solution{
-public static int search(int arr[], int x) {
-int n= arr.length;
-for(int i=0;i<n;i++){
-if(arr[i]==x)
-return i;
-}
-return -1;
-
-}
-public static void main (String[] args){
-Scanner scn= new Scanner(System.in);
-int n=scn.nextInt();
-int arr[]=new int[n];
-int x=scn.nextInt();
-System.out.println(search(arr,x));
-}
-}
-
-1
-
-Reply
-
-TUSHAR SINGH1 month agoJul 28, 2026 01:46 (GMT +5:30)
-
-class Solution {
-
-public:
-
-int search(vector<int>& arr, int x) {
-
-// code here
-
-for (int i = 0 ; i<arr.size() ; i++) {
-
-if (arr[i] == x) {
-
-return i;
-
-}
-
-}
-
-return - 1;
-
-}
-
-};
-
-0
-
-Reply
-
-Sanskar Shrivastava1 month agoJul 24, 2026 12:14 (GMT +5:30)
-
-c++ soln
-class Solution {
-public:
-int search(vector<int>& arr, int x) {
-// code here
-for(int i=0;i<arr.size();i++){
-if(arr[i] == x){
-return i;
-}
-}
-return -1;
-}
-};
-
-0
-
-Reply
-
-skelet2he91 month agoJul 23, 2026 03:20 (GMT +5:30)
-
-class Solution {
-public:
-int search(vector<int>& arr, int x) {
-// code here
-for(int i=0;i<arr.size();i++){
-if(arr[i] == x){
-return i;
-}
-else if (i==(arr.size()-1) && arr[i] != x){
-return -1;
-}
-}
-}
-};
-
-0
-
-Reply
-
 If you are facing any issue on this page. Please let us know.
 
 Output Window
@@ -283,9 +67,9 @@ Problem Solved Successfully
 Suggest Feedback
 
 Test Cases Passed1115 / 1115
-Attempts : Correct / Total2 / 2Accuracy : 100%
+Attempts : Correct / Total3 / 3Accuracy : 100%
 
-Time Taken0.29
+Time Taken0.39
 
 You get marks only for the first correct submission if you solve the problem without viewing the full solution.
 
@@ -333,9 +117,9 @@ Problem Solved Successfully
 Suggest Feedback
 
 Test Cases Passed1115 / 1115
-Attempts : Correct / Total2 / 2Accuracy : 100%
+Attempts : Correct / Total3 / 3Accuracy : 100%
 
-Time Taken0.29
+Time Taken0.39
 
 You get marks only for the first correct submission if you solve the problem without viewing the full solution.
 
