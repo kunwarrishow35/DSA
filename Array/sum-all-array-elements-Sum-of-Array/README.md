@@ -54,195 +54,6 @@ Related Articles
 
 Program Find Sum Elements Given Array
 
-Discussions ( 83 Threads )
-
-Commenting as Rishow KunwarComment Anonymously
-
-💡Discussion Guidelines
-Please avoid posting complete solutions or full code in the comments.
-Ask questions, share hints, discuss approaches, or report any issues. Let's help everyone learn together.
-
-Sumit Toppo1 hour agoSep 15, 2026 19:30 (GMT +5:30)
-
-from functools import reduce
-
-class Solution:
-
-def arraySum(self, arr):
-
-# code here
-
-ans=reduce(lambda x,y:x+y,arr)
-
-return ans
-
-0
-
-Reply
-
-Rohit Kumar Giri1 week agoSep 08, 2026 09:16 (GMT +5:30)
-
-class Solution {
-public int arraySum(int arr[]) {
-int sum = 0;
-for(int i=0; i < arr.length; i++){
-sum +=arr[i];
-
-}
-return sum;
-}
-}
-
-0
-
-Reply
-
-Aditya Maurya1 week agoSep 05, 2026 11:01 (GMT +5:30)
-
-class Solution {
-public int arraySum(int arr[]) {
-// code here
-int sum = 0;
-int i ;
-for ( i=0 ; i<arr.length ; i++){
-sum = sum + arr[i];
-}
-return sum;
-}
-}
-
-0
-
-Reply
-
-Ashish Kumar1 week agoSep 05, 2026 02:17 (GMT +5:30)
-
-class Solution {
-public:
-int arraySum(vector<int>& arr) {
-int sum = 0;
-for(int i=0; i<arr.size(); i++) {
-sum += arr[i];
-}
-return sum;
-
-}
-};
-
-0
-
-Reply
-
-Shubhi Patel2 weeks agoAug 31, 2026 21:48 (GMT +5:30)
-
-class Solution {
-public int arraySum(int arr[]) {
-// code here
-int sum=0;
-for(int i=0;i<arr.length;i++){
-sum+=arr[i];
-}
-return sum;
-}
-}
-
-2
-
-Reply
-
-Sankeerthana2 weeks agoAug 26, 2026 20:47 (GMT +5:30)
-
-class Solution {
-public int arraySum(int arr[]) {
-// code here
-int sum=0;
-for(int i=0;i<arr.length;i++){
-sum+=arr[i];
-}
-return sum;
-}
-}
-
-0
-
-Reply
-
-Anonymous_Geek(Edited)26/08/2026, 14:48
-2 weeks agoAug 26, 2026 14:46 (GMT +5:30)
-
-JAVASCRIPT SOLUTION:                                                                        class Solution {
-arraySum(arr) {
-// code here
-return arr.reduce((arr,acc)=>arr+acc);
-}
-}
-
-1
-
-Reply
-
-Dinal Patel3 weeks agoAug 25, 2026 20:01 (GMT +5:30)
-
-class Solution {
-
-public int arraySum(int arr[]) {
-
-int sum=0;
-
-for(int i=0;i<arr.length;i++){
-
-sum += arr[i];
-
-}
-
-return sum;
-
-}
-
-}
-
-0
-
-Reply
-
-Manish kumar Verma3 weeks agoAug 23, 2026 18:47 (GMT +5:30)
-
-class Solution {
-public:
-int arraySum(vector<int>& arr) {
-int sum = 0;
-for(auto i : arr){
-sum += i;
-}
-return sum;
-
-}
-};
-
-0
-
-Reply
-
-Priyanshu Keshari1 month agoAug 10, 2026 23:04 (GMT +5:30)
-
-class Solution {
-public:
-int arraySum(vector<int>& arr) {
-// code here
-int n=arr.size();
-int sum=0;
-for(int i=0; i<n; i++){
-sum=sum+arr[i];
-}
-return sum;
-}
-
-};
-
-0
-
-Reply
-
 If you are facing any issue on this page. Please let us know.
 
 Output Window
@@ -252,11 +63,11 @@ Problem Solved Successfully
 Suggest Feedback
 
 Test Cases Passed1115 / 1115
-Attempts : Correct / Total1 / 1Accuracy : 100%
+Attempts : Correct / Total2 / 2Accuracy : 100%
 
-Points Scored 1 / 1Your Total Score:18
+Time Taken0.06
 
-Time Taken0.08
+You get marks only for the first correct submission if you solve the problem without viewing the full solution.
 
 Python3
 C (gcc 5.4)
@@ -293,11 +104,11 @@ Problem Solved Successfully
 Suggest Feedback
 
 Test Cases Passed1115 / 1115
-Attempts : Correct / Total1 / 1Accuracy : 100%
+Attempts : Correct / Total2 / 2Accuracy : 100%
 
-Points Scored 1 / 1Your Total Score:18
+Time Taken0.06
 
-Time Taken0.08
+You get marks only for the first correct submission if you solve the problem without viewing the full solution.
 
 Custom Input
 
