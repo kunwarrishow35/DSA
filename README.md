@@ -251,11 +251,11 @@
 
 ## 📊 Progress
 
-**Total Solved: 35**
+**Total Solved: 36**
 
 | Topic | Solved |
 | --- | ---: |
-| Array | 21 |
+| Array | 22 |
 | Mathematics | 9 |
 | Divide-and-Conquer | 1 |
 | Brute-Force | 1 |
@@ -307,6 +307,9 @@
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22gfg%22%2C%22problemIdentifier%22%3A%224428%22%2C%22topic%22%3A%22Array%22%7D -->
 - [Min and Max in Array](https://www.geeksforgeeks.org/problems/find-minimum-and-maximum-element-in-an-array4428/1)
+
+<!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22gfg%22%2C%22problemIdentifier%22%3A%225821%22%2C%22topic%22%3A%22Array%22%7D -->
+- [Overall the best solution you will find in the comment section is here!use hashset or arraylist as per you like!for bot that works : but the hashMap is a game changer!!Code solution!](https://www.geeksforgeeks.org/problems/merge-and-sort5821/1)
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22gfg%22%2C%22problemIdentifier%22%3A%224645%22%2C%22topic%22%3A%22Array%22%7D -->
 - [Palindrome Array](https://www.geeksforgeeks.org/problems/perfect-arrays4645/1)
