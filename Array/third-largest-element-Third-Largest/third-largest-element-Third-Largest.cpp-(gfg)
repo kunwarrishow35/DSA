@@ -1,0 +1,8 @@
+class Solution:
+    def thirdLargest(self,arr):
+        # code here
+        new = sorted(arr)
+        if len(arr) < 3:
+            return -1
+        else:
+            return new[-3]
