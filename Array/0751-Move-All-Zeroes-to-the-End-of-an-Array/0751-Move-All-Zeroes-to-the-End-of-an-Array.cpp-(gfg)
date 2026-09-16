@@ -1,0 +1,17 @@
+class Solution:
+	def pushZerosToEnd(self, arr):
+    	# code here
+    	i = j = 0
+    	while(j<len(arr)):
+    	    if arr[j] == 0:
+    	        j = j+1
+    	    else:
+    	        temp = arr[j]
+    	        arr[j] = arr[i]
+    	        arr[i] = temp
+
+    	        i = i+1
+    	        j = j+1
+    	        
+        return arr
+    	    
