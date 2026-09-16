@@ -251,11 +251,11 @@
 
 ## 📊 Progress
 
-**Total Solved: 38**
+**Total Solved: 39**
 
 | Topic | Solved |
 | --- | ---: |
-| Array | 24 |
+| Array | 25 |
 | Mathematics | 9 |
 | Divide-and-Conquer | 1 |
 | Brute-Force | 1 |
@@ -322,6 +322,9 @@
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22gfg%22%2C%22problemIdentifier%22%3A%220005%22%2C%22topic%22%3A%22Array%22%7D -->
 - [Replace all 0's with 5](https://www.geeksforgeeks.org/problems/replace-all-0s-with-5/1)
+
+<!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22gfg%22%2C%22problemIdentifier%22%3A%22reverse-an-array%22%2C%22topic%22%3A%22Array%22%7D -->
+- [Reverse Array](https://www.geeksforgeeks.org/problems/reverse-an-array/1)
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22gfg%22%2C%22problemIdentifier%22%3A%222614%22%2C%22topic%22%3A%22Array%22%7D -->
 - [Rotate Array by One](https://www.geeksforgeeks.org/problems/cyclically-rotate-an-array-by-one2614/1)
