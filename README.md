@@ -249,11 +249,11 @@
 
 ## 📊 Progress
 
-**Total Solved: 33**
+**Total Solved: 34**
 
 | Topic | Solved |
 | --- | ---: |
-| Array | 19 |
+| Array | 20 |
 | Mathematics | 9 |
 | Divide-and-Conquer | 1 |
 | Brute-Force | 1 |
@@ -284,6 +284,9 @@
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22gfg%22%2C%22problemIdentifier%22%3A%225947%22%2C%22topic%22%3A%22Array%22%7D -->
 - [Count Smaller in Array](https://www.geeksforgeeks.org/problems/count-of-smaller-elements5947/1)
+
+<!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22gfg%22%2C%22problemIdentifier%22%3A%222834%22%2C%22topic%22%3A%22Array%22%7D -->
+- [Elements in the Range](https://www.geeksforgeeks.org/problems/elements-in-the-range2834/1)
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22gfg%22%2C%22problemIdentifier%22%3A%2225933%22%2C%22topic%22%3A%22Array%22%7D -->
 - [Find element at a given Index](https://www.geeksforgeeks.org/problems/c-array-print-an-element-set-25933/1)
