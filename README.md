@@ -251,11 +251,11 @@
 
 ## 📊 Progress
 
-**Total Solved: 39**
+**Total Solved: 40**
 
 | Topic | Solved |
 | --- | ---: |
-| Array | 25 |
+| Array | 26 |
 | Mathematics | 9 |
 | Divide-and-Conquer | 1 |
 | Brute-Force | 1 |
@@ -286,6 +286,9 @@
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22gfg%22%2C%22problemIdentifier%22%3A%225947%22%2C%22topic%22%3A%22Array%22%7D -->
 - [Count Smaller in Array](https://www.geeksforgeeks.org/problems/count-of-smaller-elements5947/1)
+
+<!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22gfg%22%2C%22problemIdentifier%22%3A%22find-duplicates-in-an-array%22%2C%22topic%22%3A%22Array%22%7D -->
+- [Duplicates in a Limited Range Array](https://www.geeksforgeeks.org/problems/find-duplicates-in-an-array/1)
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22gfg%22%2C%22problemIdentifier%22%3A%222834%22%2C%22topic%22%3A%22Array%22%7D -->
 - [Elements in the Range](https://www.geeksforgeeks.org/problems/elements-in-the-range2834/1)
