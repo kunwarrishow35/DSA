@@ -249,11 +249,11 @@
 
 ## 📊 Progress
 
-**Total Solved: 34**
+**Total Solved: 35**
 
 | Topic | Solved |
 | --- | ---: |
-| Array | 20 |
+| Array | 21 |
 | Mathematics | 9 |
 | Divide-and-Conquer | 1 |
 | Brute-Force | 1 |
@@ -305,6 +305,9 @@
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22gfg%22%2C%22problemIdentifier%22%3A%224428%22%2C%22topic%22%3A%22Array%22%7D -->
 - [Min and Max in Array](https://www.geeksforgeeks.org/problems/find-minimum-and-maximum-element-in-an-array4428/1)
+
+<!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22gfg%22%2C%22problemIdentifier%22%3A%224645%22%2C%22topic%22%3A%22Array%22%7D -->
+- [Palindrome Array](https://www.geeksforgeeks.org/problems/perfect-arrays4645/1)
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22leetcode%22%2C%22problemIdentifier%22%3A%220027%22%2C%22topic%22%3A%22Array%22%7D -->
 - [Remove Element](https://leetcode.com/problems/remove-element/)
