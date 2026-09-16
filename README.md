@@ -251,11 +251,11 @@
 
 ## 📊 Progress
 
-**Total Solved: 37**
+**Total Solved: 38**
 
 | Topic | Solved |
 | --- | ---: |
-| Array | 23 |
+| Array | 24 |
 | Mathematics | 9 |
 | Divide-and-Conquer | 1 |
 | Brute-Force | 1 |
@@ -331,6 +331,9 @@
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22gfg%22%2C%22problemIdentifier%22%3A%22sum-all-array-elements%22%2C%22topic%22%3A%22Array%22%7D -->
 - [Sum of Array](https://www.geeksforgeeks.org/problems/sum-all-array-elements/1)
+
+<!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22gfg%22%2C%22problemIdentifier%22%3A%22third-largest-element%22%2C%22topic%22%3A%22Array%22%7D -->
+- [Third Largest](https://www.geeksforgeeks.org/problems/third-largest-element/1)
 
 ## Mathematics
 
