@@ -249,11 +249,11 @@
 
 ## 📊 Progress
 
-**Total Solved: 32**
+**Total Solved: 33**
 
 | Topic | Solved |
 | --- | ---: |
-| Array | 18 |
+| Array | 19 |
 | Mathematics | 9 |
 | Divide-and-Conquer | 1 |
 | Brute-Force | 1 |
@@ -284,6 +284,9 @@
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22gfg%22%2C%22problemIdentifier%22%3A%225947%22%2C%22topic%22%3A%22Array%22%7D -->
 - [Count Smaller in Array](https://www.geeksforgeeks.org/problems/count-of-smaller-elements5947/1)
+
+<!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22gfg%22%2C%22problemIdentifier%22%3A%2225933%22%2C%22topic%22%3A%22Array%22%7D -->
+- [Find element at a given Index](https://www.geeksforgeeks.org/problems/c-array-print-an-element-set-25933/1)
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22gfg%22%2C%22problemIdentifier%22%3A%22implement-stack-using-array%22%2C%22topic%22%3A%22Array%22%7D -->
 - [Implement Stack using Array](https://www.geeksforgeeks.org/problems/implement-stack-using-array/1)
