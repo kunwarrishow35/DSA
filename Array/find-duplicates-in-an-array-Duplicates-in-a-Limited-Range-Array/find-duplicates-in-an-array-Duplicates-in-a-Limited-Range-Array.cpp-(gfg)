@@ -1,0 +1,13 @@
+class Solution:
+    def findDuplicates(self, arr):
+        # code here
+        res = []
+        freq = {}
+        for i in arr:
+            freq[i] = freq.get(i, 0)+1
+            
+            if freq[i] > 1:
+                res.append(i)
+        return res
+            
+        
