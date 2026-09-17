@@ -251,11 +251,11 @@
 
 ## 📊 Progress
 
-**Total Solved: 40**
+**Total Solved: 41**
 
 | Topic | Solved |
 | --- | ---: |
-| Array | 26 |
+| Array | 27 |
 | Mathematics | 9 |
 | Divide-and-Conquer | 1 |
 | Brute-Force | 1 |
@@ -310,6 +310,9 @@
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22gfg%22%2C%22problemIdentifier%22%3A%224428%22%2C%22topic%22%3A%22Array%22%7D -->
 - [Min and Max in Array](https://www.geeksforgeeks.org/problems/find-minimum-and-maximum-element-in-an-array4428/1)
+
+<!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22gfg%22%2C%22problemIdentifier%22%3A%221813%22%2C%22topic%22%3A%22Array%22%7D -->
+- [Move all negative elements to end](https://www.geeksforgeeks.org/problems/move-all-negative-elements-to-end1813/1)
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22gfg%22%2C%22problemIdentifier%22%3A%220751%22%2C%22topic%22%3A%22Array%22%7D -->
 - [Move All Zeroes to the End of an Array](https://www.geeksforgeeks.org/problems/move-all-zeroes-to-end-of-array0751/1)
