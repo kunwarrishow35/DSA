@@ -1,11 +1,5 @@
-class Solution(object):
-    def maxProduct(self, nums):
+class Solution:
+    def maxProduct(self, nums: list[int]) -> int:
         nums.sort()
-        last = nums[-1]
-        secondlast = nums[-2]
 
-        product = (last-1)*(secondlast-1)
-        return product
-       
-       
-        
+        return (nums[-1]-1)*(nums[-2]-1)
