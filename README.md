@@ -78,6 +78,7 @@
 | [0836-rectangle-overlap](https://github.com/kunwarrishow35/DSA/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/kunwarrishow35/DSA/tree/master/0877-stone-game) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/kunwarrishow35/DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/kunwarrishow35/DSA/tree/master/1401-circle-and-rectangle-overlapping) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/kunwarrishow35/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/kunwarrishow35/DSA/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3870-count-commas-in-range](https://github.com/kunwarrishow35/DSA/tree/master/3870-count-commas-in-range) |
@@ -250,6 +251,7 @@
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/kunwarrishow35/DSA/tree/master/0836-rectangle-overlap) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/kunwarrishow35/DSA/tree/master/1401-circle-and-rectangle-overlapping) |
 ## Newton's Method
 |  |
 | ------- |
