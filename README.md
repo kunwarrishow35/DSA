@@ -182,6 +182,7 @@
 | [0242-valid-anagram](https://github.com/kunwarrishow35/LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/kunwarrishow35/DSA/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/kunwarrishow35/DSA/tree/master/0387-first-unique-character-in-a-string) |
+| [0796-rotate-string](https://github.com/kunwarrishow35/DSA/tree/master/0796-rotate-string) |
 | [0844-backspace-string-compare](https://github.com/kunwarrishow35/DSA/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/kunwarrishow35/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/kunwarrishow35/DSA/tree/master/2273-find-resultant-array-after-removing-anagrams) |
@@ -260,6 +261,10 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/kunwarrishow35/DSA/tree/master/0014-longest-common-prefix) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/kunwarrishow35/DSA/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
 
 <!-- DSA-GRINDHUB:START -->
