@@ -273,11 +273,11 @@
 
 ## 📊 Progress
 
-**Total Solved: 43**
+**Total Solved: 44**
 
 | Topic | Solved |
 | --- | ---: |
-| Array | 28 |
+| Array | 29 |
 | String | 1 |
 | Mathematics | 9 |
 | Divide-and-Conquer | 1 |
@@ -369,6 +369,9 @@
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22gfg%22%2C%22problemIdentifier%22%3A%22third-largest-element%22%2C%22topic%22%3A%22Array%22%7D -->
 - [Third Largest](https://www.geeksforgeeks.org/problems/third-largest-element/1)
+
+<!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22gfg%22%2C%22problemIdentifier%22%3A%22two-sum-in-sorted-array%22%2C%22topic%22%3A%22Array%22%7D -->
+- [Two Sum in Sorted Array](https://www.geeksforgeeks.org/problems/two-sum-in-sorted-array/1)
 
 ## String
 
