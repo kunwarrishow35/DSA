@@ -1,0 +1,14 @@
+class Solution:
+	def isPalinSent(self, s):
+		# code here
+		res = []
+		for i in s:
+		    if i.isalnum():
+		        res.append(i.lower())
+		        
+        string = "".join(res)
+		  
+		return string == string[::-1]
+		        
+		        
+		      
