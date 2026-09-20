@@ -273,11 +273,11 @@
 
 ## 📊 Progress
 
-**Total Solved: 41**
+**Total Solved: 42**
 
 | Topic | Solved |
 | --- | ---: |
-| Array | 27 |
+| Array | 28 |
 | Mathematics | 9 |
 | Divide-and-Conquer | 1 |
 | Brute-Force | 1 |
@@ -341,6 +341,9 @@
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22gfg%22%2C%22problemIdentifier%22%3A%225821%22%2C%22topic%22%3A%22Array%22%7D -->
 - [Overall the best solution you will find in the comment section is here!use hashset or arraylist as per you like!for bot that works : but the hashMap is a game changer!!Code solution!](https://www.geeksforgeeks.org/problems/merge-and-sort5821/1)
+
+<!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22gfg%22%2C%22problemIdentifier%22%3A%225022%22%2C%22topic%22%3A%22Array%22%7D -->
+- [Pairs with 0 Sum](https://www.geeksforgeeks.org/problems/count-pairs-with-given-sum5022/1)
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22gfg%22%2C%22problemIdentifier%22%3A%224645%22%2C%22topic%22%3A%22Array%22%7D -->
 - [Palindrome Array](https://www.geeksforgeeks.org/problems/perfect-arrays4645/1)
