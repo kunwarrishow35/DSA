@@ -295,9 +295,6 @@
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22gfg%22%2C%22problemIdentifier%22%3A%22array-insert-at-index%22%2C%22topic%22%3A%22Array%22%7D -->
 - [Array Insert at Index](https://www.geeksforgeeks.org/problems/array-insert-at-index/1)
 
-<!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22gfg%22%2C%22problemIdentifier%22%3A%221587115621%22%2C%22topic%22%3A%22Array%22%7D -->
-- [Array Search](https://www.geeksforgeeks.org/problems/search-an-element-in-an-array-1587115621/1)
-
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22gfg%22%2C%22problemIdentifier%22%3A%22array-traversal%22%2C%22topic%22%3A%22Array%22%7D -->
 - [Array Traversal](https://www.geeksforgeeks.org/problems/array-traversal/1)
 
@@ -372,6 +369,9 @@
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22gfg%22%2C%22problemIdentifier%22%3A%22two-sum-in-sorted-array%22%2C%22topic%22%3A%22Array%22%7D -->
 - [Two Sum in Sorted Array](https://www.geeksforgeeks.org/problems/two-sum-in-sorted-array/1)
+
+<!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22gfg%22%2C%22problemIdentifier%22%3A%221587115621%22%2C%22topic%22%3A%22Array%22%7D -->
+- [Union of 2 Sorted Arrays](https://www.geeksforgeeks.org/problems/union-of-two-sorted-arrays-1587115621/1)
 
 ## String
 
