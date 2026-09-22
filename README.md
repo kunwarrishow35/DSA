@@ -16,6 +16,7 @@
 | [0328-odd-even-linked-list](https://github.com/kunwarrishow35/DSA/tree/master/0328-odd-even-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/kunwarrishow35/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/kunwarrishow35/DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/kunwarrishow35/DSA/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Recursion
 |  |
 | ------- |
@@ -38,6 +39,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/kunwarrishow35/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/kunwarrishow35/DSA/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/kunwarrishow35/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/kunwarrishow35/DSA/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/kunwarrishow35/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/kunwarrishow35/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Two Pointers
@@ -119,6 +121,7 @@
 | [2149-rearrange-array-elements-by-sign](https://github.com/kunwarrishow35/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/kunwarrishow35/DSA/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/kunwarrishow35/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/kunwarrishow35/DSA/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/kunwarrishow35/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/kunwarrishow35/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/kunwarrishow35/DSA/tree/master/3875-construct-uniform-parity-array-i) |
