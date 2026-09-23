@@ -142,6 +142,7 @@
 | [0268-missing-number](https://github.com/kunwarrishow35/DSA/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/kunwarrishow35/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/kunwarrishow35/DSA/tree/master/0367-valid-perfect-square) |
+| [0374-guess-number-higher-or-lower](https://github.com/kunwarrishow35/DSA/tree/master/0374-guess-number-higher-or-lower) |
 ## Stack
 |  |
 | ------- |
@@ -272,6 +273,10 @@
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/kunwarrishow35/DSA/tree/master/0796-rotate-string) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/kunwarrishow35/DSA/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
 
 <!-- DSA-GRINDHUB:START -->
