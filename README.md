@@ -77,6 +77,7 @@
 | [0069-sqrtx](https://github.com/kunwarrishow35/DSA/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/kunwarrishow35/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/kunwarrishow35/DSA/tree/master/0268-missing-number) |
+| [0367-valid-perfect-square](https://github.com/kunwarrishow35/DSA/tree/master/0367-valid-perfect-square) |
 | [0836-rectangle-overlap](https://github.com/kunwarrishow35/DSA/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/kunwarrishow35/DSA/tree/master/0877-stone-game) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/kunwarrishow35/DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -140,6 +141,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kunwarrishow35/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/kunwarrishow35/DSA/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/kunwarrishow35/DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0367-valid-perfect-square](https://github.com/kunwarrishow35/DSA/tree/master/0367-valid-perfect-square) |
 ## Stack
 |  |
 | ------- |
