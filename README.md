@@ -114,6 +114,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/kunwarrishow35/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0561-array-partition](https://github.com/kunwarrishow35/DSA/tree/master/0561-array-partition) |
 | [0682-baseball-game](https://github.com/kunwarrishow35/DSA/tree/master/0682-baseball-game) |
+| [0724-find-pivot-index](https://github.com/kunwarrishow35/DSA/tree/master/0724-find-pivot-index) |
 | [0867-transpose-matrix](https://github.com/kunwarrishow35/DSA/tree/master/0867-transpose-matrix) |
 | [0877-stone-game](https://github.com/kunwarrishow35/DSA/tree/master/0877-stone-game) |
 | [0896-monotonic-array](https://github.com/kunwarrishow35/DSA/tree/master/0896-monotonic-array) |
@@ -257,6 +258,7 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/kunwarrishow35/DSA/tree/master/0238-product-of-array-except-self) |
+| [0724-find-pivot-index](https://github.com/kunwarrishow35/DSA/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/kunwarrishow35/DSA/tree/master/1480-running-sum-of-1d-array) |
 ## Geometry
 |  |
