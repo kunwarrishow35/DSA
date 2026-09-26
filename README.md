@@ -301,11 +301,11 @@
 
 ## 📊 Progress
 
-**Total Solved: 51**
+**Total Solved: 52**
 
 | Topic | Solved |
 | --- | ---: |
-| Array | 30 |
+| Array | 31 |
 | String | 1 |
 | Mathematics | 15 |
 | Divide-and-Conquer | 1 |
@@ -349,6 +349,9 @@
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22gfg%22%2C%22problemIdentifier%22%3A%22implement-stack-using-array%22%2C%22topic%22%3A%22Array%22%7D -->
 - [Implement Stack using Array](https://www.geeksforgeeks.org/problems/implement-stack-using-array/1)
+
+<!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22gfg%22%2C%22problemIdentifier%22%3A%223142%22%2C%22topic%22%3A%22Array%22%7D -->
+- [INTUITION:](https://www.geeksforgeeks.org/problems/rearrange-an-array-with-o1-extra-space3142/1)
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22gfg%22%2C%22problemIdentifier%22%3A%224009%22%2C%22topic%22%3A%22Array%22%7D -->
 - [Largest in Array](https://www.geeksforgeeks.org/problems/largest-element-in-array4009/1)
