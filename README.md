@@ -301,13 +301,13 @@
 
 ## 📊 Progress
 
-**Total Solved: 49**
+**Total Solved: 50**
 
 | Topic | Solved |
 | --- | ---: |
 | Array | 30 |
 | String | 1 |
-| Mathematics | 13 |
+| Mathematics | 14 |
 | Divide-and-Conquer | 1 |
 | Brute-Force | 1 |
 | Other | 3 |
@@ -410,6 +410,9 @@
 - [Easy](https://www.geeksforgeeks.org/problems/string-palindromic-ignoring-spaces4723/1)
 
 ## Mathematics
+
+<!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22gfg%22%2C%22problemIdentifier%22%3A%22absolute-value%22%2C%22topic%22%3A%22Mathematics%22%7D -->
+- [Absolute Value](https://www.geeksforgeeks.org/problems/absolute-value/1)
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22gfg%22%2C%22problemIdentifier%22%3A%225728%22%2C%22topic%22%3A%22Mathematics%22%7D -->
 - [Closest to n and Divisible by m](https://www.geeksforgeeks.org/problems/closest-number5728/1)
