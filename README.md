@@ -301,13 +301,13 @@
 
 ## 📊 Progress
 
-**Total Solved: 48**
+**Total Solved: 49**
 
 | Topic | Solved |
 | --- | ---: |
 | Array | 30 |
 | String | 1 |
-| Mathematics | 12 |
+| Mathematics | 13 |
 | Divide-and-Conquer | 1 |
 | Brute-Force | 1 |
 | Other | 3 |
@@ -413,6 +413,9 @@
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22gfg%22%2C%22problemIdentifier%22%3A%225728%22%2C%22topic%22%3A%22Mathematics%22%7D -->
 - [Closest to n and Divisible by m](https://www.geeksforgeeks.org/problems/closest-number5728/1)
+
+<!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22gfg%22%2C%22problemIdentifier%22%3A%22convert-celsius-to-fahrenheit%22%2C%22topic%22%3A%22Mathematics%22%7D -->
+- [Convert Celsius To Fahrenheit](https://www.geeksforgeeks.org/problems/convert-celsius-to-fahrenheit/1)
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22gfg%22%2C%22problemIdentifier%22%3A%223649%22%2C%22topic%22%3A%22Mathematics%22%7D -->
 - [Count Perfect Squares](https://www.geeksforgeeks.org/problems/count-squares3649/1)
