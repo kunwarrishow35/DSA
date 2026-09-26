@@ -1,0 +1,12 @@
+class Solution:
+    def arrange(self,arr): 
+        #code here
+        new = []
+        for i in range(len(arr)):
+            index = arr[i]
+            new.append(arr[index])
+            
+        for i in range(len(new)):
+            arr[i] = new[i]
+            
+        return 
