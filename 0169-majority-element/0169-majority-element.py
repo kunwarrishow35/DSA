@@ -1,10 +1,15 @@
 class Solution:
-    def majorityElement(self, nums: List[int]) -> int:
-        freq = {}
-        for i in nums:
-            freq[i] = freq.get(i, 0)+1
-        highest = max(freq, key = freq.get)
-        return highest
+    def majorityElement(self, nums: list[int]) -> int:
+        vote = 0
+        candidate = 0
 
-
-        
+        for i in range(len(nums)):
+            if vote == 0:
+                candidate = nums[i]
+                vote += 1
+                
+            elif nums[i]==candidate:
+                vote += 1
+            else:
+                vote -= 1
+        return candidate
