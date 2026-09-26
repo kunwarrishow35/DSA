@@ -1,0 +1,8 @@
+import math
+
+class Solution:
+    
+    def distance(self, x1: int, y1: int, x2: int, y2: int) -> int:
+        # code here
+        return round((math.sqrt((x2-x1)*(x2-x1)+(y2-y1)*(y2-y1))))
+        
