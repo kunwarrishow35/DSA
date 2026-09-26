@@ -326,9 +326,6 @@
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22gfg%22%2C%22problemIdentifier%22%3A%22array-traversal%22%2C%22topic%22%3A%22Array%22%7D -->
 - [Array Traversal](https://www.geeksforgeeks.org/problems/array-traversal/1)
 
-<!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22gfg%22%2C%22problemIdentifier%22%3A%221587115620%22%2C%22topic%22%3A%22Array%22%7D -->
-- [Array with All Palindromes](https://www.geeksforgeeks.org/problems/palindromic-array-1587115620/1)
-
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22gfg%22%2C%22problemIdentifier%22%3A%22count-odd-even%22%2C%22topic%22%3A%22Array%22%7D -->
 - [Count Odd and Even](https://www.geeksforgeeks.org/problems/count-odd-even/1)
 
@@ -355,6 +352,9 @@
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22gfg%22%2C%22problemIdentifier%22%3A%224009%22%2C%22topic%22%3A%22Array%22%7D -->
 - [Largest in Array](https://www.geeksforgeeks.org/problems/largest-element-in-array4009/1)
+
+<!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22gfg%22%2C%22problemIdentifier%22%3A%221587115620%22%2C%22topic%22%3A%22Array%22%7D -->
+- [Majority Element](https://www.geeksforgeeks.org/problems/majority-element-1587115620/1)
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22leetcode%22%2C%22problemIdentifier%22%3A%220053%22%2C%22topic%22%3A%22Array%22%7D -->
 - [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
