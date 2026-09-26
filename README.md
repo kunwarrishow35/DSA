@@ -301,13 +301,13 @@
 
 ## 📊 Progress
 
-**Total Solved: 46**
+**Total Solved: 47**
 
 | Topic | Solved |
 | --- | ---: |
 | Array | 30 |
 | String | 1 |
-| Mathematics | 10 |
+| Mathematics | 11 |
 | Divide-and-Conquer | 1 |
 | Brute-Force | 1 |
 | Other | 3 |
@@ -419,6 +419,9 @@
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22gfg%22%2C%22problemIdentifier%22%3A%225739%22%2C%22topic%22%3A%22Mathematics%22%7D -->
 - [Factorial](https://www.geeksforgeeks.org/problems/factorial5739/1)
+
+<!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22gfg%22%2C%22problemIdentifier%22%3A%221002%22%2C%22topic%22%3A%22Mathematics%22%7D -->
+- [First n Fibonacci using Recursion](https://www.geeksforgeeks.org/problems/print-first-n-fibonacci-numbers1002/1)
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22gfg%22%2C%22problemIdentifier%22%3A%223459%22%2C%22topic%22%3A%22Mathematics%22%7D -->
 - [GCD of Two](https://www.geeksforgeeks.org/problems/gcd-of-two-numbers3459/1)
