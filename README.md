@@ -301,13 +301,13 @@
 
 ## 📊 Progress
 
-**Total Solved: 50**
+**Total Solved: 51**
 
 | Topic | Solved |
 | --- | ---: |
 | Array | 30 |
 | String | 1 |
-| Mathematics | 14 |
+| Mathematics | 15 |
 | Divide-and-Conquer | 1 |
 | Brute-Force | 1 |
 | Other | 3 |
@@ -422,6 +422,9 @@
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22gfg%22%2C%22problemIdentifier%22%3A%223649%22%2C%22topic%22%3A%22Mathematics%22%7D -->
 - [Count Perfect Squares](https://www.geeksforgeeks.org/problems/count-squares3649/1)
+
+<!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22gfg%22%2C%22problemIdentifier%22%3A%223200%22%2C%22topic%22%3A%22Mathematics%22%7D -->
+- [Distance Between 2 Points](https://www.geeksforgeeks.org/problems/distance-between-2-points3200/1)
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22gfg%22%2C%22problemIdentifier%22%3A%225739%22%2C%22topic%22%3A%22Mathematics%22%7D -->
 - [Factorial](https://www.geeksforgeeks.org/problems/factorial5739/1)
