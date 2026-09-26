@@ -120,6 +120,7 @@
 | [0867-transpose-matrix](https://github.com/kunwarrishow35/DSA/tree/master/0867-transpose-matrix) |
 | [0877-stone-game](https://github.com/kunwarrishow35/DSA/tree/master/0877-stone-game) |
 | [0896-monotonic-array](https://github.com/kunwarrishow35/DSA/tree/master/0896-monotonic-array) |
+| [1051-height-checker](https://github.com/kunwarrishow35/DSA/tree/master/1051-height-checker) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kunwarrishow35/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/kunwarrishow35/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1929-concatenation-of-array](https://github.com/kunwarrishow35/DSA/tree/master/1929-concatenation-of-array) |
@@ -177,6 +178,7 @@
 | [0268-missing-number](https://github.com/kunwarrishow35/DSA/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/kunwarrishow35/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0561-array-partition](https://github.com/kunwarrishow35/DSA/tree/master/0561-array-partition) |
+| [1051-height-checker](https://github.com/kunwarrishow35/DSA/tree/master/1051-height-checker) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kunwarrishow35/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/kunwarrishow35/DSA/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 ## Heap (Priority Queue)
@@ -251,6 +253,7 @@
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/kunwarrishow35/DSA/tree/master/0561-array-partition) |
+| [1051-height-checker](https://github.com/kunwarrishow35/DSA/tree/master/1051-height-checker) |
 ## Matrix
 |  |
 | ------- |
@@ -286,6 +289,10 @@
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/kunwarrishow35/DSA/tree/master/0374-guess-number-higher-or-lower) |
+## Bubble Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/kunwarrishow35/DSA/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
 
 <!-- DSA-GRINDHUB:START -->
