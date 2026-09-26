@@ -1,0 +1,7 @@
+class Solution:
+    def middle(self, a, b, c):
+        #code here
+        
+        num = [a, b, c]
+        num.sort()
+        return num[1]
