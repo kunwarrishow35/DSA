@@ -5,7 +5,7 @@
 #include <stdbool.h>
 bool* kidsWithCandies(int* candies, int candiesSize, int extraCandies, int* returnSize) {
     bool *res;
-    res = malloc(candiesSize*sizeof(char));
+    res = malloc(candiesSize*sizeof(bool));
     int k=0;
 
     int maximum = candies[0];
