@@ -1,0 +1,24 @@
+''' Structure of Binary Tree Node
+class Node:
+    def __init__(self, val):
+        self.data = val
+        self.left = None
+        self.right = None
+'''
+
+class Solution:
+    def postOrder(self, root):
+        
+        res = []
+        def postorder(node):
+            if node is None:
+                return
+            postorder(node.left)
+            postorder(node.right)
+            res.append(node.data)
+            
+        postorder(root)
+        return res
+        
+        
+        
