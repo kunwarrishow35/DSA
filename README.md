@@ -323,14 +323,14 @@
 
 ## 📊 Progress
 
-**Total Solved: 54**
+**Total Solved: 55**
 
 | Topic | Solved |
 | --- | ---: |
 | Array | 31 |
 | String | 1 |
 | Stack | 1 |
-| Tree | 1 |
+| Tree | 2 |
 | Mathematics | 15 |
 | Divide-and-Conquer | 1 |
 | Brute-Force | 1 |
@@ -445,6 +445,9 @@
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22gfg%22%2C%22problemIdentifier%22%3A%22inorder-traversal%22%2C%22topic%22%3A%22Tree%22%7D -->
 - [Morris traversal for Inorder](https://www.geeksforgeeks.org/problems/inorder-traversal/1)
+
+<!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22gfg%22%2C%22problemIdentifier%22%3A%22postorder-traversal%22%2C%22topic%22%3A%22Tree%22%7D -->
+- [Postorder Traversal](https://www.geeksforgeeks.org/problems/postorder-traversal/1)
 
 ## Mathematics
 
