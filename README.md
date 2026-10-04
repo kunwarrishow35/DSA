@@ -323,12 +323,13 @@
 
 ## 📊 Progress
 
-**Total Solved: 55**
+**Total Solved: 56**
 
 | Topic | Solved |
 | --- | ---: |
 | Array | 31 |
 | String | 1 |
+| Linked-List | 1 |
 | Stack | 1 |
 | Tree | 2 |
 | Mathematics | 15 |
@@ -435,6 +436,11 @@
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22gfg%22%2C%22problemIdentifier%22%3A%224723%22%2C%22topic%22%3A%22String%22%7D -->
 - [Easy](https://www.geeksforgeeks.org/problems/string-palindromic-ignoring-spaces4723/1)
+
+## Linked-List
+
+<!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22gfg%22%2C%22problemIdentifier%22%3A%22detect-loop-in-linked-list%22%2C%22topic%22%3A%22Linked-List%22%7D -->
+- [Detect Loop in Linked List](https://www.geeksforgeeks.org/problems/detect-loop-in-linked-list/1)
 
 ## Stack
 
