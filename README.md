@@ -160,6 +160,7 @@
 | [0020-valid-parentheses](https://github.com/kunwarrishow35/DSA/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/kunwarrishow35/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/kunwarrishow35/DSA/tree/master/0234-palindrome-linked-list) |
+| [0678-valid-parenthesis-string](https://github.com/kunwarrishow35/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0682-baseball-game](https://github.com/kunwarrishow35/DSA/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/kunwarrishow35/DSA/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/kunwarrishow35/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -206,6 +207,7 @@
 | [0344-reverse-string](https://github.com/kunwarrishow35/DSA/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/kunwarrishow35/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/kunwarrishow35/DSA/tree/master/0387-first-unique-character-in-a-string) |
+| [0678-valid-parenthesis-string](https://github.com/kunwarrishow35/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0796-rotate-string](https://github.com/kunwarrishow35/DSA/tree/master/0796-rotate-string) |
 | [0844-backspace-string-compare](https://github.com/kunwarrishow35/DSA/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/kunwarrishow35/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -225,12 +227,14 @@
 | [0032-longest-valid-parentheses](https://github.com/kunwarrishow35/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0070-climbing-stairs](https://github.com/kunwarrishow35/DSA/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kunwarrishow35/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0678-valid-parenthesis-string](https://github.com/kunwarrishow35/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/kunwarrishow35/DSA/tree/master/0877-stone-game) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/kunwarrishow35/LeetCode/tree/master/0011-container-with-most-water) |
 | [0561-array-partition](https://github.com/kunwarrishow35/DSA/tree/master/0561-array-partition) |
+| [0678-valid-parenthesis-string](https://github.com/kunwarrishow35/DSA/tree/master/0678-valid-parenthesis-string) |
 ## Minimax
 |  |
 | ------- |
@@ -276,6 +280,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/kunwarrishow35/DSA/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/kunwarrishow35/DSA/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/kunwarrishow35/DSA/tree/master/0678-valid-parenthesis-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/kunwarrishow35/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Prefix Sum
 |  |
