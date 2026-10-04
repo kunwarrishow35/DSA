@@ -323,12 +323,13 @@
 
 ## 📊 Progress
 
-**Total Solved: 52**
+**Total Solved: 53**
 
 | Topic | Solved |
 | --- | ---: |
 | Array | 31 |
 | String | 1 |
+| Tree | 1 |
 | Mathematics | 15 |
 | Divide-and-Conquer | 1 |
 | Brute-Force | 1 |
@@ -433,6 +434,11 @@
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22gfg%22%2C%22problemIdentifier%22%3A%224723%22%2C%22topic%22%3A%22String%22%7D -->
 - [Easy](https://www.geeksforgeeks.org/problems/string-palindromic-ignoring-spaces4723/1)
+
+## Tree
+
+<!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22gfg%22%2C%22problemIdentifier%22%3A%22inorder-traversal%22%2C%22topic%22%3A%22Tree%22%7D -->
+- [Morris traversal for Inorder](https://www.geeksforgeeks.org/problems/inorder-traversal/1)
 
 ## Mathematics
 
