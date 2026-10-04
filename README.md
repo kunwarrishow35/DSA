@@ -323,12 +323,13 @@
 
 ## 📊 Progress
 
-**Total Solved: 53**
+**Total Solved: 54**
 
 | Topic | Solved |
 | --- | ---: |
 | Array | 31 |
 | String | 1 |
+| Stack | 1 |
 | Tree | 1 |
 | Mathematics | 15 |
 | Divide-and-Conquer | 1 |
@@ -434,6 +435,11 @@
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22gfg%22%2C%22problemIdentifier%22%3A%224723%22%2C%22topic%22%3A%22String%22%7D -->
 - [Easy](https://www.geeksforgeeks.org/problems/string-palindromic-ignoring-spaces4723/1)
+
+## Stack
+
+<!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22gfg%22%2C%22problemIdentifier%22%3A%22preorder-traversal%22%2C%22topic%22%3A%22Stack%22%7D -->
+- [Preorder Traversal](https://www.geeksforgeeks.org/problems/preorder-traversal/1)
 
 ## Tree
 
