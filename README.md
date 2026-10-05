@@ -163,6 +163,7 @@
 | [0678-valid-parenthesis-string](https://github.com/kunwarrishow35/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0682-baseball-game](https://github.com/kunwarrishow35/DSA/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/kunwarrishow35/DSA/tree/master/0844-backspace-string-compare) |
+| [0856-score-of-parentheses](https://github.com/kunwarrishow35/DSA/tree/master/0856-score-of-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/kunwarrishow35/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/kunwarrishow35/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Simulation
@@ -210,6 +211,7 @@
 | [0678-valid-parenthesis-string](https://github.com/kunwarrishow35/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0796-rotate-string](https://github.com/kunwarrishow35/DSA/tree/master/0796-rotate-string) |
 | [0844-backspace-string-compare](https://github.com/kunwarrishow35/DSA/tree/master/0844-backspace-string-compare) |
+| [0856-score-of-parentheses](https://github.com/kunwarrishow35/DSA/tree/master/0856-score-of-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/kunwarrishow35/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/kunwarrishow35/DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/kunwarrishow35/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -281,6 +283,7 @@
 | [0020-valid-parentheses](https://github.com/kunwarrishow35/DSA/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/kunwarrishow35/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/kunwarrishow35/DSA/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/kunwarrishow35/DSA/tree/master/0856-score-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/kunwarrishow35/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Prefix Sum
 |  |
