@@ -25,6 +25,7 @@
 | [0206-reverse-linked-list](https://github.com/kunwarrishow35/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/kunwarrishow35/LeetCode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/kunwarrishow35/DSA/tree/master/0234-palindrome-linked-list) |
+| [0326-power-of-three](https://github.com/kunwarrishow35/DSA/tree/master/0326-power-of-three) |
 ## Hash Table
 |  |
 | ------- |
@@ -81,6 +82,7 @@
 | [0070-climbing-stairs](https://github.com/kunwarrishow35/DSA/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/kunwarrishow35/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/kunwarrishow35/DSA/tree/master/0268-missing-number) |
+| [0326-power-of-three](https://github.com/kunwarrishow35/DSA/tree/master/0326-power-of-three) |
 | [0367-valid-perfect-square](https://github.com/kunwarrishow35/DSA/tree/master/0367-valid-perfect-square) |
 | [0836-rectangle-overlap](https://github.com/kunwarrishow35/DSA/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/kunwarrishow35/DSA/tree/master/0877-stone-game) |
