@@ -347,8 +347,8 @@
 
 | Topic | Solved |
 | --- | ---: |
-| Array | 31 |
-| String | 1 |
+| Array | 30 |
+| String | 2 |
 | Linked-List | 1 |
 | Stack | 1 |
 | Tree | 2 |
@@ -397,9 +397,6 @@
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22gfg%22%2C%22problemIdentifier%22%3A%224009%22%2C%22topic%22%3A%22Array%22%7D -->
 - [Largest in Array](https://www.geeksforgeeks.org/problems/largest-element-in-array4009/1)
-
-<!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22gfg%22%2C%22problemIdentifier%22%3A%221587115620%22%2C%22topic%22%3A%22Array%22%7D -->
-- [Majority Element](https://www.geeksforgeeks.org/problems/majority-element-1587115620/1)
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22leetcode%22%2C%22problemIdentifier%22%3A%220053%22%2C%22topic%22%3A%22Array%22%7D -->
 - [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
@@ -453,6 +450,9 @@
 - [Union of 2 Sorted Arrays](https://www.geeksforgeeks.org/problems/union-of-two-sorted-arrays-1587115621/1)
 
 ## String
+
+<!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22gfg%22%2C%22problemIdentifier%22%3A%221587115620%22%2C%22topic%22%3A%22String%22%7D -->
+- [Anagram](https://www.geeksforgeeks.org/problems/anagram-1587115620/1)
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22gfg%22%2C%22problemIdentifier%22%3A%224723%22%2C%22topic%22%3A%22String%22%7D -->
 - [Easy](https://www.geeksforgeeks.org/problems/string-palindromic-ignoring-spaces4723/1)
