@@ -41,6 +41,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/kunwarrishow35/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/kunwarrishow35/DSA/tree/master/1394-find-lucky-integer-in-an-array) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/kunwarrishow35/DSA/tree/master/2273-find-resultant-array-after-removing-anagrams) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/kunwarrishow35/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/kunwarrishow35/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/kunwarrishow35/DSA/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/kunwarrishow35/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -140,6 +141,7 @@
 | [2149-rearrange-array-elements-by-sign](https://github.com/kunwarrishow35/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/kunwarrishow35/DSA/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/kunwarrishow35/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/kunwarrishow35/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/kunwarrishow35/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/kunwarrishow35/DSA/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/kunwarrishow35/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -340,6 +342,14 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/kunwarrishow35/DSA/tree/master/0070-climbing-stairs) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/kunwarrishow35/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/kunwarrishow35/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
 
 <!-- DSA-GRINDHUB:START -->
