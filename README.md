@@ -127,6 +127,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/kunwarrishow35/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0561-array-partition](https://github.com/kunwarrishow35/DSA/tree/master/0561-array-partition) |
 | [0682-baseball-game](https://github.com/kunwarrishow35/DSA/tree/master/0682-baseball-game) |
+| [0704-binary-search](https://github.com/kunwarrishow35/DSA/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/kunwarrishow35/DSA/tree/master/0724-find-pivot-index) |
 | [0867-transpose-matrix](https://github.com/kunwarrishow35/DSA/tree/master/0867-transpose-matrix) |
 | [0877-stone-game](https://github.com/kunwarrishow35/DSA/tree/master/0877-stone-game) |
@@ -166,6 +167,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/kunwarrishow35/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/kunwarrishow35/DSA/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/kunwarrishow35/DSA/tree/master/0374-guess-number-higher-or-lower) |
+| [0704-binary-search](https://github.com/kunwarrishow35/DSA/tree/master/0704-binary-search) |
 ## Stack
 |  |
 | ------- |
