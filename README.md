@@ -140,6 +140,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kunwarrishow35/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/kunwarrishow35/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1929-concatenation-of-array](https://github.com/kunwarrishow35/DSA/tree/master/1929-concatenation-of-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/kunwarrishow35/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/kunwarrishow35/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/kunwarrishow35/DSA/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/kunwarrishow35/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -169,6 +170,7 @@
 | [0367-valid-perfect-square](https://github.com/kunwarrishow35/DSA/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/kunwarrishow35/DSA/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/kunwarrishow35/DSA/tree/master/0704-binary-search) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/kunwarrishow35/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Stack
 |  |
 | ------- |
@@ -208,6 +210,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/kunwarrishow35/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/kunwarrishow35/DSA/tree/master/1051-height-checker) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kunwarrishow35/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/kunwarrishow35/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/kunwarrishow35/DSA/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 ## Heap (Priority Queue)
 |  |
