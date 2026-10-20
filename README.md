@@ -133,6 +133,7 @@
 | [0682-baseball-game](https://github.com/kunwarrishow35/DSA/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/kunwarrishow35/DSA/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/kunwarrishow35/DSA/tree/master/0724-find-pivot-index) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/kunwarrishow35/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/kunwarrishow35/DSA/tree/master/0867-transpose-matrix) |
 | [0877-stone-game](https://github.com/kunwarrishow35/DSA/tree/master/0877-stone-game) |
 | [0896-monotonic-array](https://github.com/kunwarrishow35/DSA/tree/master/0896-monotonic-array) |
@@ -174,6 +175,7 @@
 | [0374-guess-number-higher-or-lower](https://github.com/kunwarrishow35/DSA/tree/master/0374-guess-number-higher-or-lower) |
 | [0633-sum-of-square-numbers](https://github.com/kunwarrishow35/DSA/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/kunwarrishow35/DSA/tree/master/0704-binary-search) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/kunwarrishow35/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/kunwarrishow35/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Stack
 |  |
@@ -382,6 +384,10 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/kunwarrishow35/DSA/tree/master/0100-same-tree) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/kunwarrishow35/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
 
 <!-- DSA-GRINDHUB:START -->
