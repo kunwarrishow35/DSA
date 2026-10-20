@@ -66,6 +66,7 @@
 | [0344-reverse-string](https://github.com/kunwarrishow35/DSA/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/kunwarrishow35/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/kunwarrishow35/DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0633-sum-of-square-numbers](https://github.com/kunwarrishow35/DSA/tree/master/0633-sum-of-square-numbers) |
 | [0680-valid-palindrome-ii](https://github.com/kunwarrishow35/DSA/tree/master/0680-valid-palindrome-ii) |
 | [0844-backspace-string-compare](https://github.com/kunwarrishow35/DSA/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/kunwarrishow35/LeetCode/tree/master/0876-middle-of-the-linked-list) |
@@ -89,6 +90,7 @@
 | [0326-power-of-three](https://github.com/kunwarrishow35/DSA/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/kunwarrishow35/DSA/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/kunwarrishow35/DSA/tree/master/0367-valid-perfect-square) |
+| [0633-sum-of-square-numbers](https://github.com/kunwarrishow35/DSA/tree/master/0633-sum-of-square-numbers) |
 | [0836-rectangle-overlap](https://github.com/kunwarrishow35/DSA/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/kunwarrishow35/DSA/tree/master/0877-stone-game) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/kunwarrishow35/DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -170,6 +172,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/kunwarrishow35/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/kunwarrishow35/DSA/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/kunwarrishow35/DSA/tree/master/0374-guess-number-higher-or-lower) |
+| [0633-sum-of-square-numbers](https://github.com/kunwarrishow35/DSA/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/kunwarrishow35/DSA/tree/master/0704-binary-search) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/kunwarrishow35/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Stack
