@@ -154,6 +154,7 @@
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/kunwarrishow35/DSA/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/kunwarrishow35/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/kunwarrishow35/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3683-earliest-time-to-finish-one-task](https://github.com/kunwarrishow35/DSA/tree/master/3683-earliest-time-to-finish-one-task) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/kunwarrishow35/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/kunwarrishow35/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 ## Bit Manipulation
