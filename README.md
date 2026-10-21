@@ -130,6 +130,7 @@
 | [0283-move-zeroes](https://github.com/kunwarrishow35/LeetCode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/kunwarrishow35/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0561-array-partition](https://github.com/kunwarrishow35/DSA/tree/master/0561-array-partition) |
+| [0643-maximum-average-subarray-i](https://github.com/kunwarrishow35/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/kunwarrishow35/DSA/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/kunwarrishow35/DSA/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/kunwarrishow35/DSA/tree/master/0724-find-pivot-index) |
@@ -252,6 +253,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0643-maximum-average-subarray-i](https://github.com/kunwarrishow35/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/kunwarrishow35/DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/kunwarrishow35/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Dynamic Programming
