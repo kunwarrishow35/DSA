@@ -23,6 +23,7 @@ FREQUENTLY ASKED QUESTIONS
 ProblemEditorialSubmissionsComments
 
 Remove Spaces
+Solved
 
 Difficulty: BasicAccuracy: 49.21%Submissions: 100K+Points: 1
 
@@ -244,17 +245,16 @@ If you are facing any issue on this page. Please let us know.
 
 Output Window
 
-Compilation ResultsCustom Input
+Compilation ResultsCustom InputY.O.G.I. (AI Bot)
 Problem Solved Successfully
 Suggest Feedback
 
 Test Cases Passed1115 / 1115
-Attempts : Correct / TotalYou can see all your attempts in submission tabAccuracy : 100%
+Attempts : Correct / Total1 / 1Accuracy : 100%
 
-Points Scored You can see the score in submission tab
+Points Scored 1 / 1Your Total Score:95
+
 Time Taken0.04
-
-Calculating score…
 
 Python3
 C++ (17)
@@ -287,17 +287,16 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 Output Window
 
-Compilation ResultsCustom Input
+Compilation ResultsCustom InputY.O.G.I. (AI Bot)
 Problem Solved Successfully
 Suggest Feedback
 
 Test Cases Passed1115 / 1115
-Attempts : Correct / TotalYou can see all your attempts in submission tabAccuracy : 100%
+Attempts : Correct / Total1 / 1Accuracy : 100%
 
-Points Scored You can see the score in submission tab
+Points Scored 1 / 1Your Total Score:95
+
 Time Taken0.04
-
-Calculating score…
 
 Custom Input
 
