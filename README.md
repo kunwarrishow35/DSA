@@ -397,12 +397,12 @@
 
 ## 📊 Progress
 
-**Total Solved: 60**
+**Total Solved: 61**
 
 | Topic | Solved |
 | --- | ---: |
 | Array | 30 |
-| String | 6 |
+| String | 7 |
 | Linked-List | 1 |
 | Stack | 1 |
 | Tree | 2 |
@@ -513,6 +513,9 @@
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22gfg%22%2C%22problemIdentifier%22%3A%22check-for-binary%22%2C%22topic%22%3A%22String%22%7D -->
 - [Check for Binary String](https://www.geeksforgeeks.org/problems/check-for-binary/1)
+
+<!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22gfg%22%2C%22problemIdentifier%22%3A%22convert-string-to-lowercase%22%2C%22topic%22%3A%22String%22%7D -->
+- [Convert String to Lower Case](https://www.geeksforgeeks.org/problems/convert-string-to-lowercase/1)
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22gfg%22%2C%22problemIdentifier%22%3A%224723%22%2C%22topic%22%3A%22String%22%7D -->
 - [Easy](https://www.geeksforgeeks.org/problems/string-palindromic-ignoring-spaces4723/1)
