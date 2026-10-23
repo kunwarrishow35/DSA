@@ -397,12 +397,12 @@
 
 ## 📊 Progress
 
-**Total Solved: 58**
+**Total Solved: 59**
 
 | Topic | Solved |
 | --- | ---: |
 | Array | 30 |
-| String | 4 |
+| String | 5 |
 | Linked-List | 1 |
 | Stack | 1 |
 | Tree | 2 |
@@ -513,6 +513,9 @@
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22gfg%22%2C%22problemIdentifier%22%3A%224723%22%2C%22topic%22%3A%22String%22%7D -->
 - [Easy](https://www.geeksforgeeks.org/problems/string-palindromic-ignoring-spaces4723/1)
+
+<!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22gfg%22%2C%22problemIdentifier%22%3A%220002%22%2C%22topic%22%3A%22String%22%7D -->
+- [Even Positioned Characters](https://www.geeksforgeeks.org/problems/for-loop-2/1)
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22gfg%22%2C%22problemIdentifier%22%3A%22implement-strstr%22%2C%22topic%22%3A%22String%22%7D -->
 - [First Occurence](https://www.geeksforgeeks.org/problems/implement-strstr/1)
