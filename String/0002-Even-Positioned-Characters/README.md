@@ -190,11 +190,11 @@ Problem Solved Successfully
 Suggest Feedback
 
 Test Cases Passed99 / 99
-Attempts : Correct / Total1 / 2Accuracy : 50%
+Attempts : Correct / Total2 / 3Accuracy : 66%
 
-Points Scored 1 / 1Your Total Score:92
+Time Taken0.02
 
-Time Taken0.03
+You get marks only for the first correct submission if you solve the problem without viewing the full solution.
 
 Python3
 C (gcc 5.4)
@@ -216,12 +216,16 @@ Choose Your Preferred font For The Code Editor
 3
 4
 5
+6
+7
 
 def utility(s):
-res = ""
-for i in range(0, len(s), 2):  # Starts at index 1 to capture odd indices
-res += s[i]
-print(res, end = "")                     # Aligned outside the loop to return the full string
+# res = ""
+# for i in range(0, len(s), 2):
+#     res += s[i]
+# print(res, end = "")
+
+print(s[::2], end="")
 
 הההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההה
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
@@ -233,11 +237,11 @@ Problem Solved Successfully
 Suggest Feedback
 
 Test Cases Passed99 / 99
-Attempts : Correct / Total1 / 2Accuracy : 50%
+Attempts : Correct / Total2 / 3Accuracy : 66%
 
-Points Scored 1 / 1Your Total Score:92
+Time Taken0.02
 
-Time Taken0.03
+You get marks only for the first correct submission if you solve the problem without viewing the full solution.
 
 Custom Input
 
