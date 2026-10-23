@@ -401,8 +401,8 @@
 
 | Topic | Solved |
 | --- | ---: |
-| Array | 30 |
-| String | 8 |
+| Array | 29 |
+| String | 9 |
 | Linked-List | 1 |
 | Stack | 1 |
 | Tree | 2 |
@@ -500,9 +500,6 @@
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22gfg%22%2C%22problemIdentifier%22%3A%22two-sum-in-sorted-array%22%2C%22topic%22%3A%22Array%22%7D -->
 - [Two Sum in Sorted Array](https://www.geeksforgeeks.org/problems/two-sum-in-sorted-array/1)
 
-<!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22gfg%22%2C%22problemIdentifier%22%3A%221587115621%22%2C%22topic%22%3A%22Array%22%7D -->
-- [Union of 2 Sorted Arrays](https://www.geeksforgeeks.org/problems/union-of-two-sorted-arrays-1587115621/1)
-
 ## String
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22gfg%22%2C%22problemIdentifier%22%3A%22reverse-a-string%22%2C%22topic%22%3A%22String%22%7D -->
@@ -525,6 +522,9 @@
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22gfg%22%2C%22problemIdentifier%22%3A%22implement-strstr%22%2C%22topic%22%3A%22String%22%7D -->
 - [First Occurence](https://www.geeksforgeeks.org/problems/implement-strstr/1)
+
+<!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22gfg%22%2C%22problemIdentifier%22%3A%221587115621%22%2C%22topic%22%3A%22String%22%7D -->
+- [Remove Common and Concat](https://www.geeksforgeeks.org/problems/remove-common-characters-and-concatenate-1587115621/1)
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22gfg%22%2C%22problemIdentifier%22%3A%220128%22%2C%22topic%22%3A%22String%22%7D -->
 - [Remove Spaces](https://www.geeksforgeeks.org/problems/remove-spaces0128/1)
