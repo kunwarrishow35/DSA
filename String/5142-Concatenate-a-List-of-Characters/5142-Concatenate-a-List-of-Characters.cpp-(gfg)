@@ -1,0 +1,4 @@
+class Solution:
+    def charToStr(self, arr):
+        # code here
+        return "".join(arr)
