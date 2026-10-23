@@ -397,12 +397,12 @@
 
 ## 📊 Progress
 
-**Total Solved: 62**
+**Total Solved: 63**
 
 | Topic | Solved |
 | --- | ---: |
 | Array | 29 |
-| String | 9 |
+| String | 10 |
 | Linked-List | 1 |
 | Stack | 1 |
 | Tree | 2 |
@@ -501,6 +501,9 @@
 - [Two Sum in Sorted Array](https://www.geeksforgeeks.org/problems/two-sum-in-sorted-array/1)
 
 ## String
+
+<!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22gfg%22%2C%22problemIdentifier%22%3A%220817%22%2C%22topic%22%3A%22String%22%7D -->
+- [75 DAYS GFG POTD ARTICLE CHALLENGE CHALLENGE(DAY 1/75)](https://www.geeksforgeeks.org/problems/palindrome-string0817/1)
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22gfg%22%2C%22problemIdentifier%22%3A%22reverse-a-string%22%2C%22topic%22%3A%22String%22%7D -->
 - [75 DAYS GFG POTD ARTICLE CHALLENGE CHALLENGE(DAY 3/75)](https://www.geeksforgeeks.org/problems/reverse-a-string/1)
