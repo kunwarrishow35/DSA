@@ -266,7 +266,7 @@ Problem Solved Successfully
 Suggest Feedback
 
 Test Cases Passed102 / 102
-Attempts : Correct / Total2 / 4Accuracy : 50%
+Attempts : Correct / Total3 / 5Accuracy : 60%
 
 Time Taken0.03
 
@@ -295,14 +295,18 @@ Choose Your Preferred font For The Code Editor
 6
 7
 8
+9
+10
 
 class Solution:
 def isBinary(self, s):
 # code here
-for i in s:
-if i != '0' and i != '1':
-return False
-return True
+# for i in s:
+#     if i != '0' and i != '1':
+#         return False
+# return True
+
+return set(s).issubset({'0', '1'})
 
 הההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההה
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
@@ -314,7 +318,7 @@ Problem Solved Successfully
 Suggest Feedback
 
 Test Cases Passed102 / 102
-Attempts : Correct / Total2 / 4Accuracy : 50%
+Attempts : Correct / Total3 / 5Accuracy : 60%
 
 Time Taken0.03
 
