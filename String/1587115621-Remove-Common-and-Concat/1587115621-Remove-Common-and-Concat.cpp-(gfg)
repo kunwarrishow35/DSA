@@ -1,0 +1,22 @@
+class Solution:
+    def concatenatedString(self, s1, s2):
+        set1 = set(s1)
+        set2 = set(s2)
+
+        res = []
+        for ch in s1:
+  
+            if ch not in set2:
+                res.append(ch)
+
+        for ch in s2:
+         
+            if ch not in set1:
+                res.append(ch)
+
+        result = "".join(res)
+
+        if result:
+            return result
+
+        return "-1"
