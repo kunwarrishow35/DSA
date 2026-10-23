@@ -397,12 +397,12 @@
 
 ## 📊 Progress
 
-**Total Solved: 66**
+**Total Solved: 67**
 
 | Topic | Solved |
 | --- | ---: |
 | Array | 29 |
-| String | 13 |
+| String | 14 |
 | Linked-List | 1 |
 | Stack | 1 |
 | Tree | 2 |
@@ -513,6 +513,9 @@
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22gfg%22%2C%22problemIdentifier%22%3A%22check-for-binary%22%2C%22topic%22%3A%22String%22%7D -->
 - [Check for Binary String](https://www.geeksforgeeks.org/problems/check-for-binary/1)
+
+<!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22gfg%22%2C%22problemIdentifier%22%3A%225142%22%2C%22topic%22%3A%22String%22%7D -->
+- [Concatenate a List of Characters](https://www.geeksforgeeks.org/problems/convert-a-list-of-characters-into-a-string5142/1)
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22gfg%22%2C%22problemIdentifier%22%3A%22convert-string-to-lowercase%22%2C%22topic%22%3A%22String%22%7D -->
 - [Convert String to Lower Case](https://www.geeksforgeeks.org/problems/convert-string-to-lowercase/1)
