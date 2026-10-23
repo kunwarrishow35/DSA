@@ -397,12 +397,12 @@
 
 ## 📊 Progress
 
-**Total Solved: 65**
+**Total Solved: 66**
 
 | Topic | Solved |
 | --- | ---: |
 | Array | 29 |
-| String | 12 |
+| String | 13 |
 | Linked-List | 1 |
 | Stack | 1 |
 | Tree | 2 |
@@ -516,6 +516,9 @@
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22gfg%22%2C%22problemIdentifier%22%3A%22convert-string-to-lowercase%22%2C%22topic%22%3A%22String%22%7D -->
 - [Convert String to Lower Case](https://www.geeksforgeeks.org/problems/convert-string-to-lowercase/1)
+
+<!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22gfg%22%2C%22problemIdentifier%22%3A%223348%22%2C%22topic%22%3A%22String%22%7D -->
+- [Count Uppercase characters](https://www.geeksforgeeks.org/problems/find-the-camel3348/1)
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22gfg%22%2C%22problemIdentifier%22%3A%224723%22%2C%22topic%22%3A%22String%22%7D -->
 - [Easy](https://www.geeksforgeeks.org/problems/string-palindromic-ignoring-spaces4723/1)
