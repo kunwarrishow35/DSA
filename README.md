@@ -397,12 +397,12 @@
 
 ## 📊 Progress
 
-**Total Solved: 61**
+**Total Solved: 62**
 
 | Topic | Solved |
 | --- | ---: |
 | Array | 30 |
-| String | 7 |
+| String | 8 |
 | Linked-List | 1 |
 | Stack | 1 |
 | Tree | 2 |
@@ -525,6 +525,9 @@
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22gfg%22%2C%22problemIdentifier%22%3A%22implement-strstr%22%2C%22topic%22%3A%22String%22%7D -->
 - [First Occurence](https://www.geeksforgeeks.org/problems/implement-strstr/1)
+
+<!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22gfg%22%2C%22problemIdentifier%22%3A%220128%22%2C%22topic%22%3A%22String%22%7D -->
+- [Remove Spaces](https://www.geeksforgeeks.org/problems/remove-spaces0128/1)
 
 ## Linked-List
 
