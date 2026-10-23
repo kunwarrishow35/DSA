@@ -1,0 +1,23 @@
+class Solution:
+    def binarySubstring(self, s):
+        # 1. Count the total number of '1's in the string
+        n = s.count('1')
+
+        # 2. Calculate pairs using the combination formula (nC2)
+        # Using integer division '//' to return a whole number
+        return (n * (n - 1)) // 2
+        
+        
+        
+        
+        # class Solution:
+        #     def binarySubstring(self, s):
+        #         count = 0
+
+        #         for i in range(len(s)):
+        #             for j in range(i + 1, len(s)):
+        #                 # Just check if the start index and end index are both '1'
+        #                 if s[i] == '1' and s[j] == '1':
+        #                     count += 1
+
+        #         return count
