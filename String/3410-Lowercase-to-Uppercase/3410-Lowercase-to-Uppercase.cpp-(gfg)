@@ -1,0 +1,5 @@
+class Solution:
+    def toUpper(self, s: str) -> str:
+        # code here
+        
+        return s.upper()
