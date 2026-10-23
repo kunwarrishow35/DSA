@@ -397,12 +397,12 @@
 
 ## 📊 Progress
 
-**Total Solved: 56**
+**Total Solved: 57**
 
 | Topic | Solved |
 | --- | ---: |
 | Array | 30 |
-| String | 2 |
+| String | 3 |
 | Linked-List | 1 |
 | Stack | 1 |
 | Tree | 2 |
@@ -504,6 +504,9 @@
 - [Union of 2 Sorted Arrays](https://www.geeksforgeeks.org/problems/union-of-two-sorted-arrays-1587115621/1)
 
 ## String
+
+<!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22gfg%22%2C%22problemIdentifier%22%3A%22reverse-a-string%22%2C%22topic%22%3A%22String%22%7D -->
+- [75 DAYS GFG POTD ARTICLE CHALLENGE CHALLENGE(DAY 3/75)](https://www.geeksforgeeks.org/problems/reverse-a-string/1)
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22gfg%22%2C%22problemIdentifier%22%3A%221587115620%22%2C%22topic%22%3A%22String%22%7D -->
 - [Anagram](https://www.geeksforgeeks.org/problems/anagram-1587115620/1)
