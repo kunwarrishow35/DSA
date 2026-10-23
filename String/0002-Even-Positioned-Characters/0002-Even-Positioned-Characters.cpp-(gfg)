@@ -1,0 +1,5 @@
+def utility(s):
+    res = ""
+    for i in range(0, len(s), 2):  # Starts at index 1 to capture odd indices
+        res += s[i]
+    print(res, end = "")                     # Aligned outside the loop to return the full string
