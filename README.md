@@ -397,12 +397,12 @@
 
 ## 📊 Progress
 
-**Total Solved: 64**
+**Total Solved: 65**
 
 | Topic | Solved |
 | --- | ---: |
 | Array | 29 |
-| String | 11 |
+| String | 12 |
 | Linked-List | 1 |
 | Stack | 1 |
 | Tree | 2 |
@@ -528,6 +528,9 @@
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22gfg%22%2C%22problemIdentifier%22%3A%22length-of-string%22%2C%22topic%22%3A%22String%22%7D -->
 - [Length of String](https://www.geeksforgeeks.org/problems/length-of-string/1)
+
+<!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22gfg%22%2C%22problemIdentifier%22%3A%223410%22%2C%22topic%22%3A%22String%22%7D -->
+- [Lowercase to Uppercase](https://www.geeksforgeeks.org/problems/lower-case-to-upper-case3410/1)
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22gfg%22%2C%22problemIdentifier%22%3A%221587115621%22%2C%22topic%22%3A%22String%22%7D -->
 - [Remove Common and Concat](https://www.geeksforgeeks.org/problems/remove-common-characters-and-concatenate-1587115621/1)
