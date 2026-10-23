@@ -22,166 +22,37 @@ FREQUENTLY ASKED QUESTIONS
 
 ProblemEditorialSubmissionsComments
 
-Discussions ( 119 Threads )
+Even Positioned Characters
+Solved
 
-Commenting as Rishow KunwarComment Anonymously
+Difficulty: BasicAccuracy: 61.13%Submissions: 168K+Points: 1Average Time: 10m
 
-💡Discussion Guidelines
-Please avoid posting complete solutions or full code in the comments.
-Ask questions, share hints, discuss approaches, or report any issues. Let's help everyone learn together.
+You are given a String S, you need to print its characters at even indices(index starts at 0).
 
-Aman Kumar1 month agoSep 09, 2026 16:20 (GMT +5:30)
+Examples:
 
-class Solution {
-public static void utility(String s) {
-// code here
+Input: s = "Geeks"
+Output: Ges
+Explanation: The even indices (0, 2 & 4) characters are printed.
 
-int n=s.length();
+Input: s = "DoctorPhenomenal"
+Output: DcoPeoea
+Explanation: The even indices characters are printed.
 
-for(int i=0;i<n;i+=2){
+Expected Complexities
 
-System.out.print(s.charAt(i));
+Time Complexity: O(n)
+Auxiliary Space: O(1)
 
-}
+Topic Tags
 
-}
-}
+Strings
 
-0
+Related Articles
 
-Reply
+Print Alternate Characters Of A String
 
-Anonymous_Geek2 months agoAug 14, 2026 10:02 (GMT +5:30)
-
-def utility(s):
-#code here
-# for i in s[::2]:     print(i,end="")
-
-1
-
-Reply
-
-K Vijay kumar2 months agoAug 13, 2026 10:35 (GMT +5:30)
-
-def utility(s):
-#code here
-# for i in s[::2]:
-#     print(i,end="")
-for i in range(len(s)):
-if i%2==0:
-print(s[i],end="")
-
-1
-
-Reply
-(Show 2 Replies)
-
-rajib mistry2 months agoAug 04, 2026 13:58 (GMT +5:30)
-
-def utility(s):
-#code here
-n = len(s)
-for i in range(n):
-
-if i%2 == 0:
-print(s[i],end= "")
-
-1
-
-Reply
-
-GATTU JITHIN2 months agoAug 04, 2026 11:19 (GMT +5:30)
-
-def utility(s):
-#code here
-for i in range(len(s)):
-if i%2 ==0:
-print(s[i],end="")
-
-0
-
-Reply
-
-Anurag Maurya2 months agoAug 02, 2026 15:44 (GMT +5:30)
-
-void utility(string s) {
-// length of string is given by s.length()
-// character at any index i is given by s[i]
-
-// Write your code here
-for(int i = 0; i<s.length();i++){
-if(i%2==0){
-cout<<s[i];
-}
-}
-}
-
-0
-
-Reply
-
-Ayush kumar(Edited)02/08/2026, 10:00
-2 months agoAug 02, 2026 09:58 (GMT +5:30)
-
-look all codes in comments are tough
-Let me explain
-for(int i=0; i< s.length();i++){
-if(i%2==0){
-S.o.p(s.charAt(i));
-}
-}
-
-0
-
-Reply
-
-Kanchi Guru Goutham2 months agoAug 01, 2026 23:18 (GMT +5:30)
-
-def utility(s):
-#code here
-for i in range(len(s)):
-if i%2 ==0:
-print(s[i],end="")
-
-0
-
-Reply
-
-Lily2 months agoJul 29, 2026 14:33 (GMT +5:30)
-
-class Solution {
-
-public static void utility(String s) {
-
-// code here
-
-for(int i = 0;i < s.length();i++){
-
-char ch = s.charAt(i);
-
-if(i % 2 == 0){
-
-System.out.print(ch);
-
-}
-
-}
-
-}
-
-}
-
-1
-
-Reply
-
-shruti gupta3 months agoJul 11, 2026 20:29 (GMT +5:30)
-
-in for loop increment value of i by 2 for the even indexes
-
-1
-
-Reply
+If you are facing any issue on this page. Please let us know.
 
 Output Window
 
@@ -190,9 +61,9 @@ Problem Solved Successfully
 Suggest Feedback
 
 Test Cases Passed99 / 99
-Attempts : Correct / Total2 / 3Accuracy : 66%
+Attempts : Correct / Total4 / 5Accuracy : 80%
 
-Time Taken0.02
+Time Taken0.03
 
 You get marks only for the first correct submission if you solve the problem without viewing the full solution.
 
@@ -237,13 +108,15 @@ Problem Solved Successfully
 Suggest Feedback
 
 Test Cases Passed99 / 99
-Attempts : Correct / Total2 / 3Accuracy : 66%
+Attempts : Correct / Total4 / 5Accuracy : 80%
 
-Time Taken0.02
+Time Taken0.03
 
 You get marks only for the first correct submission if you solve the problem without viewing the full solution.
 
 Custom Input
+
+If you are facing any issue on this page. Please let us know.
 
 ## Problem Link
 
