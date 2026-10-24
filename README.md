@@ -399,12 +399,12 @@
 
 ## 📊 Progress
 
-**Total Solved: 70**
+**Total Solved: 71**
 
 | Topic | Solved |
 | --- | ---: |
 | Array | 30 |
-| String | 16 |
+| String | 17 |
 | Linked-List | 1 |
 | Stack | 1 |
 | Tree | 2 |
@@ -554,6 +554,9 @@
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22gfg%22%2C%22problemIdentifier%22%3A%2215847%22%2C%22topic%22%3A%22String%22%7D -->
 - [return s.rfind('1')](https://www.geeksforgeeks.org/problems/last-index-of-15847/1)
+
+<!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22gfg%22%2C%22problemIdentifier%22%3A%222943%22%2C%22topic%22%3A%22String%22%7D -->
+- [Sort String](https://www.geeksforgeeks.org/problems/sort-a-string2943/1)
 
 ## Linked-List
 
