@@ -399,11 +399,11 @@
 
 ## 📊 Progress
 
-**Total Solved: 81**
+**Total Solved: 82**
 
 | Topic | Solved |
 | --- | ---: |
-| Array | 32 |
+| Array | 33 |
 | String | 25 |
 | Linked-List | 1 |
 | Stack | 1 |
@@ -468,6 +468,9 @@
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22gfg%22%2C%22problemIdentifier%22%3A%224428%22%2C%22topic%22%3A%22Array%22%7D -->
 - [Min and Max in Array](https://www.geeksforgeeks.org/problems/find-minimum-and-maximum-element-in-an-array4428/1)
+
+<!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22gfg%22%2C%22problemIdentifier%22%3A%221416%22%2C%22topic%22%3A%22Array%22%7D -->
+- [Missing in Array](https://www.geeksforgeeks.org/problems/missing-number-in-array1416/1)
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22gfg%22%2C%22problemIdentifier%22%3A%221813%22%2C%22topic%22%3A%22Array%22%7D -->
 - [Move all negative elements to end](https://www.geeksforgeeks.org/problems/move-all-negative-elements-to-end1813/1)
