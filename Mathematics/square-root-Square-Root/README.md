@@ -329,11 +329,11 @@ Problem Solved Successfully
 Suggest Feedback
 
 Test Cases Passed1111 / 1111
-Attempts : Correct / Total1 / 1Accuracy : 100%
+Attempts : Correct / Total2 / 2Accuracy : 100%
 
-Points Scored 2 / 2Your Total Score:127
+Time Taken0.04
 
-Time Taken0.03
+You get marks only for the first correct submission if you solve the problem without viewing the full solution.
 
 Python3
 C (gcc 5.4)
@@ -355,12 +355,60 @@ Choose Your Preferred font For The Code Editor
 3
 4
 5
-
-import math
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
 
 class Solution:
 def floorSqrt(self, n: int) -> int:
-return math.isqrt(n)
+if n < 2:
+return n
+
+left, right = 1, n
+ans = 0
+
+while left <= right:
+mid = (left + right) // 2
+
+if mid * mid == n:
+return mid
+elif mid * mid < n:
+ans = mid
+left = mid + 1
+else:
+right = mid - 1
+
+return ans
+
+# import math
+
+# class Solution:
+#     def floorSqrt(self, n: int) -> int:
+#         return math.isqrt(n)
 
 הההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההההה
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
@@ -372,11 +420,11 @@ Problem Solved Successfully
 Suggest Feedback
 
 Test Cases Passed1111 / 1111
-Attempts : Correct / Total1 / 1Accuracy : 100%
+Attempts : Correct / Total2 / 2Accuracy : 100%
 
-Points Scored 2 / 2Your Total Score:127
+Time Taken0.04
 
-Time Taken0.03
+You get marks only for the first correct submission if you solve the problem without viewing the full solution.
 
 Custom Input
 
