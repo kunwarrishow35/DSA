@@ -399,12 +399,12 @@
 
 ## 📊 Progress
 
-**Total Solved: 77**
+**Total Solved: 78**
 
 | Topic | Solved |
 | --- | ---: |
 | Array | 30 |
-| String | 23 |
+| String | 24 |
 | Linked-List | 1 |
 | Stack | 1 |
 | Tree | 2 |
@@ -521,6 +521,9 @@
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22gfg%22%2C%22problemIdentifier%22%3A%225419%22%2C%22topic%22%3A%22String%22%7D -->
 - [Capitalize First Letter of Words](https://www.geeksforgeeks.org/problems/upper-case-conversion5419/1)
+
+<!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22gfg%22%2C%22problemIdentifier%22%3A%223541%22%2C%22topic%22%3A%22String%22%7D -->
+- [Change the Case based on First Character](https://www.geeksforgeeks.org/problems/change-the-string3541/1)
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22gfg%22%2C%22problemIdentifier%22%3A%22check-for-binary%22%2C%22topic%22%3A%22String%22%7D -->
 - [Check for Binary String](https://www.geeksforgeeks.org/problems/check-for-binary/1)
