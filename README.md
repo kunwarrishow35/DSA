@@ -399,12 +399,12 @@
 
 ## 📊 Progress
 
-**Total Solved: 78**
+**Total Solved: 79**
 
 | Topic | Solved |
 | --- | ---: |
 | Array | 30 |
-| String | 24 |
+| String | 25 |
 | Linked-List | 1 |
 | Stack | 1 |
 | Tree | 2 |
@@ -560,6 +560,9 @@
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22gfg%22%2C%22problemIdentifier%22%3A%223410%22%2C%22topic%22%3A%22String%22%7D -->
 - [Lowercase to Uppercase](https://www.geeksforgeeks.org/problems/lower-case-to-upper-case3410/1)
+
+<!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22gfg%22%2C%22problemIdentifier%22%3A%2215112%22%2C%22topic%22%3A%22String%22%7D -->
+- [One Line Code for Java : -](https://www.geeksforgeeks.org/problems/java-strings-set-15112/1)
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22gfg%22%2C%22problemIdentifier%22%3A%221587115621%22%2C%22topic%22%3A%22String%22%7D -->
 - [Remove Common and Concat](https://www.geeksforgeeks.org/problems/remove-common-characters-and-concatenate-1587115621/1)
