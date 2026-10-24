@@ -1,0 +1,14 @@
+class Solution:
+    def getSecondLargest(self, arr):
+        # code here
+        maximum = second = float('-inf')
+        for i in arr:
+            if i>maximum:
+                second = maximum
+                maximum = i
+            elif i>second and i<maximum:
+                second = i
+        if second != float('-inf'):
+            return second
+        else:
+            return -1
