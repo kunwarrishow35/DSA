@@ -399,12 +399,12 @@
 
 ## 📊 Progress
 
-**Total Solved: 73**
+**Total Solved: 74**
 
 | Topic | Solved |
 | --- | ---: |
 | Array | 30 |
-| String | 19 |
+| String | 20 |
 | Linked-List | 1 |
 | Stack | 1 |
 | Tree | 2 |
@@ -536,6 +536,9 @@
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22gfg%22%2C%22problemIdentifier%22%3A%220002%22%2C%22topic%22%3A%22String%22%7D -->
 - [Even Positioned Characters](https://www.geeksforgeeks.org/problems/for-loop-2/1)
+
+<!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22gfg%22%2C%22problemIdentifier%22%3A%223632%22%2C%22topic%22%3A%22String%22%7D -->
+- [First Letter of Every Word](https://www.geeksforgeeks.org/problems/print-first-letter-of-every-word-in-the-string3632/1)
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22gfg%22%2C%22problemIdentifier%22%3A%22implement-strstr%22%2C%22topic%22%3A%22String%22%7D -->
 - [First Occurence](https://www.geeksforgeeks.org/problems/implement-strstr/1)
