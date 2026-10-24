@@ -399,12 +399,12 @@
 
 ## 📊 Progress
 
-**Total Solved: 75**
+**Total Solved: 76**
 
 | Topic | Solved |
 | --- | ---: |
 | Array | 30 |
-| String | 21 |
+| String | 22 |
 | Linked-List | 1 |
 | Stack | 1 |
 | Tree | 2 |
@@ -533,6 +533,9 @@
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22gfg%22%2C%22problemIdentifier%22%3A%223348%22%2C%22topic%22%3A%22String%22%7D -->
 - [Count Uppercase characters](https://www.geeksforgeeks.org/problems/find-the-camel3348/1)
+
+<!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22gfg%22%2C%22problemIdentifier%22%3A%224036%22%2C%22topic%22%3A%22String%22%7D -->
+- [Delete Alternate Characters](https://www.geeksforgeeks.org/problems/java-delete-alternate-characters4036/1)
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22gfg%22%2C%22problemIdentifier%22%3A%224723%22%2C%22topic%22%3A%22String%22%7D -->
 - [Easy](https://www.geeksforgeeks.org/problems/string-palindromic-ignoring-spaces4723/1)
