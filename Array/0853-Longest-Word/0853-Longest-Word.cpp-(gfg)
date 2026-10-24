@@ -1,0 +1,14 @@
+class Solution:
+    def longest(self, arr):
+        if len(arr) == 0:
+            return ""
+
+        maximum = len(arr[0])
+        max_str = arr[0]
+
+        for i in range(1, len(arr)):
+            if len(arr[i]) > maximum:
+                maximum = len(arr[i])
+                max_str = arr[i]
+
+        return max_str
