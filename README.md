@@ -399,12 +399,12 @@
 
 ## 📊 Progress
 
-**Total Solved: 69**
+**Total Solved: 70**
 
 | Topic | Solved |
 | --- | ---: |
 | Array | 30 |
-| String | 15 |
+| String | 16 |
 | Linked-List | 1 |
 | Stack | 1 |
 | Tree | 2 |
@@ -551,6 +551,9 @@
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22gfg%22%2C%22problemIdentifier%22%3A%221446%22%2C%22topic%22%3A%22String%22%7D -->
 - [Remove Vowels](https://www.geeksforgeeks.org/problems/remove-vowels-from-string1446/1)
+
+<!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22gfg%22%2C%22problemIdentifier%22%3A%2215847%22%2C%22topic%22%3A%22String%22%7D -->
+- [return s.rfind('1')](https://www.geeksforgeeks.org/problems/last-index-of-15847/1)
 
 ## Linked-List
 
