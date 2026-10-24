@@ -1,0 +1,5 @@
+class Solution:
+    def conRevstr(self, s1: str, s2: str) -> str:
+        # code here
+        new = s1+s2
+        return new[::-1]
