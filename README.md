@@ -399,11 +399,11 @@
 
 ## 📊 Progress
 
-**Total Solved: 80**
+**Total Solved: 81**
 
 | Topic | Solved |
 | --- | ---: |
-| Array | 31 |
+| Array | 32 |
 | String | 25 |
 | Linked-List | 1 |
 | Stack | 1 |
@@ -495,6 +495,9 @@
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22gfg%22%2C%22problemIdentifier%22%3A%222614%22%2C%22topic%22%3A%22Array%22%7D -->
 - [Rotate Array by One](https://www.geeksforgeeks.org/problems/cyclically-rotate-an-array-by-one2614/1)
+
+<!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22gfg%22%2C%22problemIdentifier%22%3A%223735%22%2C%22topic%22%3A%22Array%22%7D -->
+- [Second Largest](https://www.geeksforgeeks.org/problems/second-largest3735/1)
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22gfg%22%2C%22problemIdentifier%22%3A%22max-length-chain%22%2C%22topic%22%3A%22Array%22%7D -->
 - [Sum Except First and Last](https://www.geeksforgeeks.org/problems/max-length-chain/1)
