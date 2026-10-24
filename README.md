@@ -399,7 +399,7 @@
 
 ## 📊 Progress
 
-**Total Solved: 83**
+**Total Solved: 84**
 
 | Topic | Solved |
 | --- | ---: |
@@ -408,7 +408,7 @@
 | Linked-List | 1 |
 | Stack | 1 |
 | Tree | 2 |
-| Mathematics | 15 |
+| Mathematics | 16 |
 | Divide-and-Conquer | 1 |
 | Brute-Force | 1 |
 | Other | 4 |
@@ -652,6 +652,9 @@
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22gfg%22%2C%22problemIdentifier%22%3A%220021%22%2C%22topic%22%3A%22Mathematics%22%7D -->
 - [return int(np.mean(arr))](https://www.geeksforgeeks.org/problems/mean0021/1)
+
+<!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22gfg%22%2C%22problemIdentifier%22%3A%22square-root%22%2C%22topic%22%3A%22Mathematics%22%7D -->
+- [Square Root](https://www.geeksforgeeks.org/problems/square-root/1)
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22gfg%22%2C%22problemIdentifier%22%3A%221742%22%2C%22topic%22%3A%22Mathematics%22%7D -->
 - [Sum Of Digits](https://www.geeksforgeeks.org/problems/sum-of-digits1742/1)
