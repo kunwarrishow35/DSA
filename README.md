@@ -399,7 +399,7 @@
 
 ## 📊 Progress
 
-**Total Solved: 82**
+**Total Solved: 83**
 
 | Topic | Solved |
 | --- | ---: |
@@ -411,7 +411,7 @@
 | Mathematics | 15 |
 | Divide-and-Conquer | 1 |
 | Brute-Force | 1 |
-| Other | 3 |
+| Other | 4 |
 
 ## Array
 
@@ -667,6 +667,9 @@
 - [Watermelon](https://codeforces.com/contest/4/problem/A)
 
 ## Other
+
+<!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22gfg%22%2C%22problemIdentifier%22%3A%221132%22%2C%22topic%22%3A%22Other%22%7D -->
+- [Common in 3 Sorted](https://www.geeksforgeeks.org/problems/common-elements1132/1)
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22hackerrank%22%2C%22problemIdentifier%22%3A%222532%22%2C%22topic%22%3A%22Other%22%7D -->
 - [Solve Me First](https://www.hackerrank.com/challenges/solve-me-first/problem)
