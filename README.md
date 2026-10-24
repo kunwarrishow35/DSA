@@ -403,8 +403,8 @@
 
 | Topic | Solved |
 | --- | ---: |
-| Array | 33 |
-| String | 25 |
+| Array | 34 |
+| String | 24 |
 | Linked-List | 1 |
 | Stack | 1 |
 | Tree | 2 |
@@ -435,6 +435,9 @@
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22gfg%22%2C%22problemIdentifier%22%3A%22find-duplicates-in-an-array%22%2C%22topic%22%3A%22Array%22%7D -->
 - [Duplicates in a Limited Range Array](https://www.geeksforgeeks.org/problems/find-duplicates-in-an-array/1)
+
+<!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22gfg%22%2C%22problemIdentifier%22%3A%221587115620%22%2C%22topic%22%3A%22Array%22%7D -->
+- [Easy to understand soln in c++.....](https://www.geeksforgeeks.org/problems/binary-search-1587115620/1)
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22gfg%22%2C%22problemIdentifier%22%3A%222834%22%2C%22topic%22%3A%22Array%22%7D -->
 - [Elements in the Range](https://www.geeksforgeeks.org/problems/elements-in-the-range2834/1)
@@ -524,9 +527,6 @@
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22gfg%22%2C%22problemIdentifier%22%3A%222736%22%2C%22topic%22%3A%22String%22%7D -->
 - [Alternate Merge Two Strings](https://www.geeksforgeeks.org/problems/merge-two-strings2736/1)
-
-<!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22gfg%22%2C%22problemIdentifier%22%3A%221587115620%22%2C%22topic%22%3A%22String%22%7D -->
-- [Binary Substrings with Corners as 1](https://www.geeksforgeeks.org/problems/binary-string-1587115620/1)
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22gfg%22%2C%22problemIdentifier%22%3A%225419%22%2C%22topic%22%3A%22String%22%7D -->
 - [Capitalize First Letter of Words](https://www.geeksforgeeks.org/problems/upper-case-conversion5419/1)
