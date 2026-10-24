@@ -1,0 +1,13 @@
+class Solution:
+    def modify(self, s):
+        # code here
+        flag = 0
+        if s[0].isupper():
+            flag = 1
+        if flag == 0:
+            s = s.lower()
+        else:
+            s = s.upper()
+            
+        return s
+            
