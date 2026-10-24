@@ -1,0 +1,9 @@
+class Solution:
+    def delAlternate (self, s):
+        # code here 
+        i = 0
+        res = ''
+        while i < len(s):
+            res+=s[i]
+            i+=2
+        return res
