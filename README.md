@@ -399,12 +399,12 @@
 
 ## 📊 Progress
 
-**Total Solved: 74**
+**Total Solved: 75**
 
 | Topic | Solved |
 | --- | ---: |
 | Array | 30 |
-| String | 20 |
+| String | 21 |
 | Linked-List | 1 |
 | Stack | 1 |
 | Tree | 2 |
@@ -512,6 +512,9 @@
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22gfg%22%2C%22problemIdentifier%22%3A%22reverse-a-string%22%2C%22topic%22%3A%22String%22%7D -->
 - [75 DAYS GFG POTD ARTICLE CHALLENGE CHALLENGE(DAY 3/75)](https://www.geeksforgeeks.org/problems/reverse-a-string/1)
+
+<!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22gfg%22%2C%22problemIdentifier%22%3A%222736%22%2C%22topic%22%3A%22String%22%7D -->
+- [Alternate Merge Two Strings](https://www.geeksforgeeks.org/problems/merge-two-strings2736/1)
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22gfg%22%2C%22problemIdentifier%22%3A%221587115620%22%2C%22topic%22%3A%22String%22%7D -->
 - [Binary Substrings with Corners as 1](https://www.geeksforgeeks.org/problems/binary-string-1587115620/1)
