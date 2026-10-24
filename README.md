@@ -399,11 +399,11 @@
 
 ## 📊 Progress
 
-**Total Solved: 67**
+**Total Solved: 68**
 
 | Topic | Solved |
 | --- | ---: |
-| Array | 29 |
+| Array | 30 |
 | String | 14 |
 | Linked-List | 1 |
 | Stack | 1 |
@@ -453,6 +453,9 @@
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22gfg%22%2C%22problemIdentifier%22%3A%224009%22%2C%22topic%22%3A%22Array%22%7D -->
 - [Largest in Array](https://www.geeksforgeeks.org/problems/largest-element-in-array4009/1)
+
+<!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22gfg%22%2C%22problemIdentifier%22%3A%220853%22%2C%22topic%22%3A%22Array%22%7D -->
+- [Longest Word](https://www.geeksforgeeks.org/problems/display-longest-name0853/1)
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22leetcode%22%2C%22problemIdentifier%22%3A%220053%22%2C%22topic%22%3A%22Array%22%7D -->
 - [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
