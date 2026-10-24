@@ -257,11 +257,11 @@ Problem Solved Successfully
 Suggest Feedback
 
 Test Cases Passed1115 / 1115
-Attempts : Correct / Total1 / 6Accuracy : 16%
-
-Points Scored 1 / 1Your Total Score:104
+Attempts : Correct / Total2 / 7Accuracy : 28%
 
 Time Taken0.05
+
+You get marks only for the first correct submission if you solve the problem without viewing the full solution.
 
 Python3
 C++ (17)
@@ -297,12 +297,12 @@ def longest(self, arr):
 if len(arr) == 0:
 return ""
 
-maximum = len(arr[0])
+# maximum = len(arr[0])
 max_str = arr[0]
 
 for i in range(1, len(arr)):
-if len(arr[i]) > maximum:
-maximum = len(arr[i])
+if len(arr[i]) > len(max_str):
+# maximum = len(arr[i])
 max_str = arr[i]
 
 return max_str
@@ -317,11 +317,11 @@ Problem Solved Successfully
 Suggest Feedback
 
 Test Cases Passed1115 / 1115
-Attempts : Correct / Total1 / 6Accuracy : 16%
-
-Points Scored 1 / 1Your Total Score:104
+Attempts : Correct / Total2 / 7Accuracy : 28%
 
 Time Taken0.05
+
+You get marks only for the first correct submission if you solve the problem without viewing the full solution.
 
 Custom Input
 
