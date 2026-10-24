@@ -399,11 +399,11 @@
 
 ## 📊 Progress
 
-**Total Solved: 79**
+**Total Solved: 80**
 
 | Topic | Solved |
 | --- | ---: |
-| Array | 30 |
+| Array | 31 |
 | String | 25 |
 | Linked-List | 1 |
 | Stack | 1 |
@@ -453,6 +453,9 @@
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22gfg%22%2C%22problemIdentifier%22%3A%224009%22%2C%22topic%22%3A%22Array%22%7D -->
 - [Largest in Array](https://www.geeksforgeeks.org/problems/largest-element-in-array4009/1)
+
+<!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22gfg%22%2C%22problemIdentifier%22%3A%225129%22%2C%22topic%22%3A%22Array%22%7D -->
+- [Longest Common Prefix of Strings](https://www.geeksforgeeks.org/problems/longest-common-prefix-in-an-array5129/1)
 
 <!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22gfg%22%2C%22problemIdentifier%22%3A%220853%22%2C%22topic%22%3A%22Array%22%7D -->
 - [Longest Word](https://www.geeksforgeeks.org/problems/display-longest-name0853/1)
