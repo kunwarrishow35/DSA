@@ -96,6 +96,7 @@
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/kunwarrishow35/DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/kunwarrishow35/DSA/tree/master/1401-circle-and-rectangle-overlapping) |
 | [2235-add-two-integers](https://github.com/kunwarrishow35/DSA/tree/master/2235-add-two-integers) |
+| [2409-count-days-spent-together](https://github.com/kunwarrishow35/DSA/tree/master/2409-count-days-spent-together) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/kunwarrishow35/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/kunwarrishow35/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/kunwarrishow35/DSA/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -249,6 +250,7 @@
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/kunwarrishow35/DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/kunwarrishow35/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/kunwarrishow35/DSA/tree/master/2273-find-resultant-array-after-removing-anagrams) |
+| [2409-count-days-spent-together](https://github.com/kunwarrishow35/DSA/tree/master/2409-count-days-spent-together) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/kunwarrishow35/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3498-reverse-degree-of-a-string](https://github.com/kunwarrishow35/DSA/tree/master/3498-reverse-degree-of-a-string) |
 ## Sliding Window
